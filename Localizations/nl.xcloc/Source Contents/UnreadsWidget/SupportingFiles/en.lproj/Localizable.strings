@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Yeti
+
+  Created by Nikhil Nigade on 18/11/21.
+  Copyright © 2021 Dezine Zync Studios. All rights reserved.
+*/
+
+/* Widgets */
+"No Unreads" = "No Unreads";
+"No unreads in this folder" = "No unreads in this folder";

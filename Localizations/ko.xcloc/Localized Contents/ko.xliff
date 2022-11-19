@@ -1,0 +1,2581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="../../DZ/UIPredicateEditor/Sources/UIPredicateEditor/Resources/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ko">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="Add Filter" xml:space="preserve">
+        <source>Add Filter</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <note>All</note>
+      </trans-unit>
+      <trans-unit id="Any" xml:space="preserve">
+        <source>Any</source>
+        <note>Any</note>
+      </trans-unit>
+      <trans-unit id="Combination" xml:space="preserve">
+        <source>Combination</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <note>Delete action under row comments</note>
+      </trans-unit>
+      <trans-unit id="New" xml:space="preserve">
+        <source>New</source>
+        <note>New Row Button Title</note>
+      </trans-unit>
+      <trans-unit id="No" xml:space="preserve">
+        <source>No</source>
+        <note>No</note>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <note>Any</note>
+      </trans-unit>
+      <trans-unit id="Row Actions" xml:space="preserve">
+        <source>Row Actions</source>
+        <note>Row Actions for a predicate template row (delete)</note>
+      </trans-unit>
+      <trans-unit id="Yes" xml:space="preserve">
+        <source>Yes</source>
+        <note>Yes</note>
+      </trans-unit>
+      <trans-unit id="begins with" xml:space="preserve">
+        <source>begins with</source>
+        <note>begins with</note>
+      </trans-unit>
+      <trans-unit id="between" xml:space="preserve">
+        <source>between</source>
+        <note>between</note>
+      </trans-unit>
+      <trans-unit id="contains" xml:space="preserve">
+        <source>contains</source>
+        <note>contains</note>
+      </trans-unit>
+      <trans-unit id="ends with" xml:space="preserve">
+        <source>ends with</source>
+        <note>ends with</note>
+      </trans-unit>
+      <trans-unit id="in" xml:space="preserve">
+        <source>in</source>
+        <note>in</note>
+      </trans-unit>
+      <trans-unit id="is" xml:space="preserve">
+        <source>is</source>
+        <note>is</note>
+      </trans-unit>
+      <trans-unit id="is greater than" xml:space="preserve">
+        <source>is greater than</source>
+        <note>greater than</note>
+      </trans-unit>
+      <trans-unit id="is greater than or equal to" xml:space="preserve">
+        <source>is greater than or equal to</source>
+        <note>greater than or equal to</note>
+      </trans-unit>
+      <trans-unit id="is less than" xml:space="preserve">
+        <source>is less than</source>
+        <note>less than</note>
+      </trans-unit>
+      <trans-unit id="is less than or equal to" xml:space="preserve">
+        <source>is less than or equal to</source>
+        <note>less than or equal to</note>
+      </trans-unit>
+      <trans-unit id="is not" xml:space="preserve">
+        <source>is not</source>
+        <note>is not</note>
+      </trans-unit>
+      <trans-unit id="like" xml:space="preserve">
+        <source>like</source>
+        <note>like</note>
+      </trans-unit>
+      <trans-unit id="matches" xml:space="preserve">
+        <source>matches</source>
+        <note>matches</note>
+      </trans-unit>
+      <trans-unit id="of the following are true" xml:space="preserve">
+        <source>of the following are true</source>
+        <note>of the following are true</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="notificationContext/Base.lproj/MainInterface.storyboard" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="ns6-KV-S31.text" xml:space="preserve">
+        <source>Hello World</source>
+        <target>Hello World</target>
+        <note>Class = "UILabel"; text = "Hello World"; ObjectID = "ns6-KV-S31";</note>
+      </trans-unit>
+      <trans-unit id="zMp-RN-rI0.text" xml:space="preserve">
+        <source>Hello World</source>
+        <target>Hello World</target>
+        <note>Class = "UILabel"; text = "Hello World"; ObjectID = "zMp-RN-rI0";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="notificationContext/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>notificationContext</source>
+        <target>notificationContext</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>notificationContext</source>
+        <target>notificationContext</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="notificationsService/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>notificationsService</source>
+        <target>notificationsService</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>notificationsService</source>
+        <target>notificationsService</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2022 Dezine Zync Studios. All rights reserved.</source>
+        <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="safari-subscribe-ios/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>safari-subscribe-ios</source>
+        <target>safari-subscribe-ios</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>safari-subscribe-ios</source>
+        <target>safari-subscribe-ios</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</source>
+        <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="safari-subscribe/Base.lproj/SafariExtensionViewController.xib" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="2Ec-kd-q2K.title" xml:space="preserve">
+        <source>Subscribe to Feed</source>
+        <target>Subscribe to Feed</target>
+        <note>Class = "NSTextFieldCell"; title = "Subscribe to Feed"; ObjectID = "2Ec-kd-q2K";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="safari-subscribe/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Subscribe to Feed</source>
+        <target>피드 구독</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>safari-subscribe</source>
+        <target>safari-subscribe</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</source>
+        <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableDescription" xml:space="preserve">
+        <source>This extension adds a Subscribe button to the toolbar for easily subscribing to available feeds from the current page.  </source>
+        <target>이 확장은 현재 페이지에서 사용 가능한 피드를 쉽게 구독할 수 있도록 도구 모음에 구독 버튼을 추가합니다.</target>
+        <note>Human readable description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SelectFeedIntent/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>SelectFeedIntent</source>
+        <target>SelectFeedIntent</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>SelectFeedIntent</source>
+        <target>SelectFeedIntent</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2021 Dezine Zync Studios. All rights reserved.</source>
+        <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SelectFolderIntents/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>SelectFolderIntents</source>
+        <target>SelectFolderIntents</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>SelectFolderIntents</source>
+        <target>SelectFolderIntents</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="UnreadsWidget/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>UnreadsWidget</source>
+        <target>UnreadsWidget</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>UnreadsWidgetExtension</source>
+        <target>UnreadsWidgetExtension</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="UnreadsWidget/Intents/Base.lproj/BloccsIntent.intentdefinition" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="M6LS24" xml:space="preserve">
+        <source>Yes</source>
+        <target>예</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="b0GXFS" xml:space="preserve">
+        <source>Show Favicons</source>
+        <target>favicons를 보여줍니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="gpCwrM" xml:space="preserve">
+        <source>Bloccs</source>
+        <target>블록스</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="k3Nc0F" xml:space="preserve">
+        <source>No</source>
+        <target>아니요</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tVvJ9c" xml:space="preserve">
+        <source>Latest unread articles as bloccs</source>
+        <target>최신 읽지 않은 기사 Bloccs</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="UnreadsWidget/Intents/Base.lproj/FoldersIntent.intentdefinition" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="ACONC1" xml:space="preserve">
+        <source>No</source>
+        <target>아니요</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="EEO3HF" xml:space="preserve">
+        <source>Show Covers</source>
+        <target>표지 표시</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="EWA8mK" xml:space="preserve">
+        <source>Yes</source>
+        <target>예</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="H7OzW0" xml:space="preserve">
+        <source>Yes</source>
+        <target>예</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="O2JmTj" xml:space="preserve">
+        <source>Yes</source>
+        <target>예</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="QCud3e" xml:space="preserve">
+        <source>Show Only Unread</source>
+        <target>읽지 않은 것만 보여줍니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ReOkGF" xml:space="preserve">
+        <source>Widget Folder</source>
+        <target>위젯 폴더</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="WaAjkN" xml:space="preserve">
+        <source>No</source>
+        <target>아니요</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="X2o7NR" xml:space="preserve">
+        <source>No</source>
+        <target>아니요</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="kcBojI" xml:space="preserve">
+        <source>Folders</source>
+        <target>폴더</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mrJGFd" xml:space="preserve">
+        <source>Folder</source>
+        <target>폴더</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="z0ETUD" xml:space="preserve">
+        <source>Latest unread articles from a folder</source>
+        <target>폴더에서 최신 읽지 않은 기사</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="zxa57D" xml:space="preserve">
+        <source>Show Favicons</source>
+        <target>favicons를 보여줍니다</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="UnreadsWidget/Intents/Base.lproj/SoloIntent.intentdefinition" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="H7OzW0" xml:space="preserve">
+        <source>Yes</source>
+        <target>예</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ReOkGF" xml:space="preserve">
+        <source>Widget Feed</source>
+        <target>위젯 피드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="WaAjkN" xml:space="preserve">
+        <source>No</source>
+        <target>아니요</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="kcBojI" xml:space="preserve">
+        <source>Solo</source>
+        <target>독주</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mrJGFd" xml:space="preserve">
+        <source>Feed</source>
+        <target>먹이다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="z0ETUD" xml:space="preserve">
+        <source>Latest unread article from a feed</source>
+        <target>피드의 최신 읽지 않은 기사</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="zxa57D" xml:space="preserve">
+        <source>Show Favicons</source>
+        <target>favicons를 보여줍니다</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="UnreadsWidget/Intents/Base.lproj/UnreadsIntent.intentdefinition" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="1LU3ej" xml:space="preserve">
+        <source>Yes</source>
+        <target>예</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1alBce" xml:space="preserve">
+        <source>Show Covers</source>
+        <target>표지 표시</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="L4n8im" xml:space="preserve">
+        <source>No</source>
+        <target>아니요</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="M6LS24" xml:space="preserve">
+        <source>Yes</source>
+        <target>예</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="b0GXFS" xml:space="preserve">
+        <source>Show Favicons</source>
+        <target>favicons를 보여줍니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="gpCwrM" xml:space="preserve">
+        <source>Unread Articles</source>
+        <target>읽지 않은 기사</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="k3Nc0F" xml:space="preserve">
+        <source>No</source>
+        <target>아니요</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tVvJ9c" xml:space="preserve">
+        <source>Latest unread articles from your account</source>
+        <target>귀하의 계정에서 최신 읽지 않은 기사</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="UnreadsWidget/SupportingFiles/en.lproj/Localizable.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="%@ - %@" xml:space="preserve">
+        <source>%1$@ - %2$@</source>
+        <target>%@ - %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Blog" xml:space="preserve">
+        <source>No Blog</source>
+        <target>블로그 없음</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Unreads" xml:space="preserve">
+        <source>No Unreads</source>
+        <target>읽지 않은</target>
+        <note>Widgets</note>
+      </trans-unit>
+      <trans-unit id="No unreads in this folder" xml:space="preserve">
+        <source>No unreads in this folder</source>
+        <target>이 폴더에는 읽지 않음이 없습니다</target>
+        <note>No unreads in this folder</note>
+      </trans-unit>
+      <trans-unit id="Recent Unreads" xml:space="preserve">
+        <source>Recent Unreads</source>
+        <target>최근 읽지 않은</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Controllers/Root/Base.lproj/PushRequestVC.xib" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="05p-vO-3Wh.normalTitle" xml:space="preserve">
+        <source>Enable Notifications</source>
+        <target>알림 사용</target>
+        <note>Class = "UIButton"; normalTitle = "Enable Notifications"; ObjectID = "05p-vO-3Wh";</note>
+      </trans-unit>
+      <trans-unit id="maL-2M-Pbz.text" xml:space="preserve">
+        <source>Push Notifications</source>
+        <target>푸시 알림</target>
+        <note>Class = "UILabel"; text = "Push Notifications"; ObjectID = "maL-2M-Pbz";</note>
+      </trans-unit>
+      <trans-unit id="xH9-bS-Bv3.text" xml:space="preserve">
+        <source>You may enable Push Notifications to receive near realtime updates from feeds you subscribe to.
+
+Push Notifications are also used for keeping your devices in-sync with each other in realtime.</source>
+        <target>푸시 알림이 구독하는 피드에서 푸시 알림을 사용할 수 있습니다.
+
+PUSH 알림은 장치를 실시간으로 서로 동기화하는 데 사용하는 데 사용됩니다.</target>
+        <note>Class = "UILabel"; text = "You may enable Push Notifications to receive near realtime updates from feeds you subscribe to.\n\nPush Notifications are also used for keeping your devices in-sync with each other in realtime."; ObjectID = "xH9-bS-Bv3";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/SupportingFiles/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Elytra</source>
+        <target>겉날개</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Elytra</source>
+        <target>겉날개</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2016-2022 Nikhil Nigade</source>
+        <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
+        <source>Save images you select from articles to your photos.  </source>
+        <target>기사에서 선택한 이미지를 사진에 저장합니다.</target>
+        <note>Privacy - Photo Library Additions Usage Description</note>
+      </trans-unit>
+      <trans-unit id="OPML" xml:space="preserve">
+        <source>OPML</source>
+        <target>OPML</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Outline Processor file containing RSS feeds" xml:space="preserve">
+        <source>Outline Processor file containing RSS feeds</source>
+        <target>RSS 피드가 포함된 아웃라인 프로세서 파일</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Utilities/Settings.bundle/en.lproj/Root.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="Enabled" xml:space="preserve">
+        <source>Enabled</source>
+        <target>활성화됨</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Group" xml:space="preserve">
+        <source>Group</source>
+        <target>그룹</target>
+        <note>A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences.</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target>이름</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="none given" xml:space="preserve">
+        <source>none given</source>
+        <target>none given</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/DZAppDelegate/Example/Base.lproj/LaunchScreen.xib" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text" xml:space="preserve">
+        <source>  Copyright (c) 2015 Dezine Zync Studios LLP. All rights reserved.</source>
+        <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
+        <note>Class = "UILabel"; text = "  Copyright (c) 2015 Dezine Zync Studios LLP. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+      <trans-unit id="kId-c2-rCX.text" xml:space="preserve">
+        <source>DZAppDelegate</source>
+        <target>DZAppDelegate</target>
+        <note>Class = "UILabel"; text = "DZAppDelegate"; ObjectID = "kId-c2-rCX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/DZAppDelegate/Example/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>DZAppDelegate</source>
+        <target>DZAppDelegate</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/DZKit/ColumnApp/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>ColumnApp</source>
+        <target>ColumnApp</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/DZKit/DZKit/en.lproj/Localizable.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="An error occured" xml:space="preserve">
+        <source>An error occurred</source>
+        <note>An error occured</note>
+      </trans-unit>
+      <trans-unit id="An unknown error occured. Please try again." xml:space="preserve">
+        <source>An unknown error occurred. Please try again.</source>
+        <note>An unknown error occured. Please try again.</note>
+      </trans-unit>
+      <trans-unit id="Ok" xml:space="preserve">
+        <source>Ok</source>
+        <target>확인</target>
+        <note>Ok</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/DZKit/DZKitTestApp/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>DZKitTestApp</source>
+        <target>DZKitTestApp</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/Localisations/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="pou-ME-U8A.title" xml:space="preserve">
+        <source>Feeds</source>
+        <target>피드</target>
+        <note>Class = "UINavigationItem"; title = "Feeds"; ObjectID = "pou-ME-U8A";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/Localisations/en.lproj/Localizable.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id=" Your subscription is managed externally." xml:space="preserve">
+        <source> Your subscription is managed externally.</source>
+        <target>구독은 외부에서 관리됩니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Account" xml:space="preserve">
+        <source>Account</source>
+        <target>계정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Account ID" xml:space="preserve">
+        <source>Account ID</source>
+        <target>계정 ID</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Active Filters" xml:space="preserve">
+        <source>Active Filters</source>
+        <target>활성 필터</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add" xml:space="preserve">
+        <source>Add</source>
+        <target>추가하다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adding Feed" xml:space="preserve">
+        <source>Adding Feed</source>
+        <target>피드 추가</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <target>모두</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All - Latest First" xml:space="preserve">
+        <source>All - Latest First</source>
+        <target>ALL - 최신 첫째</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All - Oldest First" xml:space="preserve">
+        <source>All - Oldest First</source>
+        <target>모두 - 가장 오래된 우선</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All account, feeds and articles data will be deleted and you will be prompted to sign-in again." xml:space="preserve">
+        <source>All account, feeds and articles data will be deleted and you will be prompted to sign-in again.</source>
+        <target>모든 계정, 피드 및 기사 데이터가 삭제되고 다시 로그인하라는 메시지가 표시됩니다.</target>
+        <note>All account, feeds and articles data will be deleted and you will be prompted to sign-in again.</note>
+      </trans-unit>
+      <trans-unit id="Always" xml:space="preserve">
+        <source>Always</source>
+        <target>언제나</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Always load images" xml:space="preserve">
+        <source>Always load images</source>
+        <target>항상 이미지를로드하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="An Error Occurred" xml:space="preserve">
+        <source>An Error Occurred</source>
+        <target>오류가 발생하였습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="An Unexpected Error Occurred" xml:space="preserve">
+        <source>An Unexpected Error Occurred</source>
+        <target>예기치 않은 오류가 발생했습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="An error occurred removing the feed from its current folder - %@" xml:space="preserve">
+        <source>An error occurred removing the feed from its current folder - %@</source>
+        <target>현재 폴더에서 피드를 제거하는 중 오류가 발생했습니다 - %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="An error occurred when parsing the feed's information. If this repeats, please contact support." xml:space="preserve">
+        <source>An error occurred when parsing the feed's information. If this repeats, please contact support.</source>
+        <target>피드의 정보를 파싱 할 때 오류가 발생했습니다.이 반복되면 지원에 문의하십시오.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="An error occurred when preparing information for contacting supporting. Please directly send an email to support@elytra.app" xml:space="preserve">
+        <source>An error occurred when preparing information for contacting supporting. Please directly send an email to support@elytra.app</source>
+        <note>Description: Error when preparing info for contacting support, under Settings &gt; Contact</note>
+      </trans-unit>
+      <trans-unit id="An error occurred when processing your refund request, no other information is available at the moment." xml:space="preserve">
+        <source>An error occurred when processing your refund request, no other information is available at the moment.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="An unknown error has occurred." xml:space="preserve">
+        <source>An unknown error has occurred.</source>
+        <target>알 수없는 오류가 발생했습니다.</target>
+        <note>An unknown error has occurred.</note>
+      </trans-unit>
+      <trans-unit id="An unknown error occurred when loading products. Please contact support@elytra.app" xml:space="preserve">
+        <source>An unknown error occurred when loading products. Please contact support@elytra.app</source>
+        <target>제품을로드 할 때 알 수없는 오류가 발생했습니다.support@elytra.app.app.에 문의하십시오</target>
+        <note>contact support help message</note>
+      </trans-unit>
+      <trans-unit id="An unknown error occurred when performing this action." xml:space="preserve">
+        <source>An unknown error occurred when performing this action.</source>
+        <target>이 작업을 수행 할 때 알 수없는 오류가 발생했습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="An unknown error occurred when registering for Push Notifications." xml:space="preserve">
+        <source>An unknown error occurred when registering for Push Notifications.</source>
+        <target>푸시 알림에 등록 할 때 알 수없는 오류가 발생했습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="An unknown error occurred when trying to delete the keyword." xml:space="preserve">
+        <source>An unknown error occurred when trying to delete the keyword.</source>
+        <target>키워드를 삭제하려고 할 때 알 수없는 오류가 발생했습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="An unknown error occurred when unsubscribing." xml:space="preserve">
+        <source>An unknown error occurred when unsubscribing.</source>
+        <target>탈퇴 할 때 알 수없는 오류가 발생했습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="App Icon" xml:space="preserve">
+        <source>App Icon</source>
+        <target>앱 아이콘</target>
+        <note>MiscVC</note>
+      </trans-unit>
+      <trans-unit id="App Logs" xml:space="preserve">
+        <source>App Logs</source>
+        <target>App 로그</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Appearance" xml:space="preserve">
+        <source>Appearance</source>
+        <target>모습</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Apple has received your refund request and will process the same shortly." xml:space="preserve">
+        <source>Apple has received your refund request and will process the same shortly.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Apps" xml:space="preserve">
+        <source>Apps</source>
+        <target>앱</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete %@" xml:space="preserve">
+        <source>Are you sure you want to delete %@</source>
+        <target>삭제 하시겠습니까 %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete this feed?" xml:space="preserve">
+        <source>Are you sure you want to delete this feed?</source>
+        <target>이 피드를 삭제 하시겠습니까?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete this folder?" xml:space="preserve">
+        <source>Are you sure you want to delete this folder?</source>
+        <target>이 폴더를 삭제 하시겠습니까?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to enable Reader Mode for all feeds?" xml:space="preserve">
+        <source>Are you sure you want to enable Reader Mode for all feeds?</source>
+        <target>모든 피드에 대한 리더 모드를 활성화 하시겠습니까?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to mark all unread articles as read?" xml:space="preserve">
+        <source>Are you sure you want to mark all unread articles as read?</source>
+        <target>모든 읽지 않은 기사를 읽고 싶습니까?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to reset the app?" xml:space="preserve">
+        <source>Are you sure you want to reset the app?</source>
+        <target>앱을 재설정하시겠습니까?</target>
+        <note>Are you sure you want to reset the app?</note>
+      </trans-unit>
+      <trans-unit id="Article Actions" xml:space="preserve">
+        <source>Article Actions</source>
+        <target>기사 조치</target>
+        <note>Article Actions menu title</note>
+      </trans-unit>
+      <trans-unit id="Article Options" xml:space="preserve">
+        <source>Article Options</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Articles by %@" xml:space="preserve">
+        <source>Articles by %@</source>
+        <target>기사 @ @</target>
+        <note>Articles by %@ (Author) format</note>
+      </trans-unit>
+      <trans-unit id="As you scroll, the app will automatically mark articles as read." xml:space="preserve">
+        <source>As you scroll, the app will automatically mark articles as read.</source>
+        <target>스크롤 할 때 앱이 자동으로 읽음으로 기사를 표시합니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Attributions" xml:space="preserve">
+        <source>Attributions</source>
+        <target>기여</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto Full-Text" xml:space="preserve">
+        <source>Auto Full-Text</source>
+        <target>자동 전체 텍스트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto-load GIFs" xml:space="preserve">
+        <source>Auto-load GIFs</source>
+        <target>자동로드 GIF</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Autoload GIFs" xml:space="preserve">
+        <source>Autoload GIFs</source>
+        <target>GIF Autoload</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you." xml:space="preserve">
+        <source>Autoloading GIFs is not recommended for the health of your device's battery and bandwidth load. However, if you have an unlimited data plan or lots of money, this setting is for you.</source>
+        <target>장치의 배터리 및 대역폭 부하 상태에 대한 자동 로딩 GIF는 권장되지 않습니다.그러나 무제한 데이터 계획이나 많은 돈이있는 경우이 설정은 사용자를위한 것입니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Automatically Check for Updates" xml:space="preserve">
+        <source>Automatically Check for Updates</source>
+        <target>자동으로 업데이트를 확인합니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Background Fetch" xml:space="preserve">
+        <source>Background Fetch</source>
+        <target>배경 가져 오기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bandwidth" xml:space="preserve">
+        <source>Bandwidth</source>
+        <target>대역폭</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bookmark" xml:space="preserve">
+        <source>Bookmark</source>
+        <target>서표</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bookmarks" xml:space="preserve">
+        <source>Bookmarks</source>
+        <target>책갈피</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Browser" xml:space="preserve">
+        <source>Browser</source>
+        <target>브라우저</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Buy" xml:space="preserve">
+        <source>Buy</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>취소</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cancel Subscription" xml:space="preserve">
+        <source>Cancel Subscription</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Check for Updates" xml:space="preserve">
+        <source>Check for Updates</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <target>닫다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Close Feed Info" xml:space="preserve">
+        <source>Close Feed Info</source>
+        <target>피드 정보를 닫습니다</target>
+        <note>Feed Info</note>
+      </trans-unit>
+      <trans-unit id="Close New Folder" xml:space="preserve">
+        <source>Close New Folder</source>
+        <target>새 폴더를 닫습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Close article" xml:space="preserve">
+        <source>Close article</source>
+        <target>닫기 기사</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Confirm" xml:space="preserve">
+        <source>Confirm</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." xml:space="preserve">
+        <source>Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account.</source>
+        <target>Apple ID를 겉날개 계정에 연결하십시오.이렇게하면 다른 플랫폼에서도 로그인 할 수 있습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Contact" xml:space="preserve">
+        <source>Contact</source>
+        <target>연락하다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Continue" xml:space="preserve">
+        <source>Continue</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Copy" xml:space="preserve">
+        <source>Copy</source>
+        <target>복사</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy Account ID" xml:space="preserve">
+        <source>Copy Account ID</source>
+        <target>계정 ID 복사</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy Link" xml:space="preserve">
+        <source>Copy Link</source>
+        <target>링크 복사</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy URL" xml:space="preserve">
+        <source>Copy URL</source>
+        <target>URL 복사본</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cover Images" xml:space="preserve">
+        <source>Cover Images</source>
+        <target>이미지 커버</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Create Private ID" xml:space="preserve">
+        <source>Create Private ID</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Custom Feed Names" xml:space="preserve">
+        <source>Custom Feed Names</source>
+        <target>사용자 정의 피드 이름</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Custom Font" xml:space="preserve">
+        <source>Custom Font</source>
+        <target>사용자 정의 글꼴</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Customization" xml:space="preserve">
+        <source>Customization</source>
+        <target>사용자 정의</target>
+        <note>Appearance VC</note>
+      </trans-unit>
+      <trans-unit id="Customize" xml:space="preserve">
+        <source>Customize</source>
+        <target>사용자 정의</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Data Backup" xml:space="preserve">
+        <source>Data Backup</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Deactivate" xml:space="preserve">
+        <source>Deactivate</source>
+        <target>비활성화하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Deactivate Account" xml:space="preserve">
+        <source>Deactivate Account</source>
+        <target>계정 비활성화</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>삭제</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete Account" xml:space="preserve">
+        <source>Delete Account</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete Feed" xml:space="preserve">
+        <source>Delete Feed</source>
+        <target>피드를 삭제하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete Feed?" xml:space="preserve">
+        <source>Delete Feed?</source>
+        <target>피드 삭제?</target>
+        <note>Search</note>
+      </trans-unit>
+      <trans-unit id="Delete Folder" xml:space="preserve">
+        <source>Delete Folder</source>
+        <target>폴더 삭제</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete Full Text Copy" xml:space="preserve">
+        <source>Delete Full Text Copy</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete and Redownload" xml:space="preserve">
+        <source>Delete and Redownload</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dismiss Search" xml:space="preserve">
+        <source>Dismiss Search</source>
+        <target>검색 해산</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dock Icon" xml:space="preserve">
+        <source>Dock Icon</source>
+        <target>도크 아이콘</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target>완료</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edit Smart Folder" xml:space="preserve">
+        <source>Edit Smart Folder</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." xml:space="preserve">
+        <source>Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth.</source>
+        <target>겉날개는이 장치에 표시되도록 최적화 된 이미지를로드하기 위해 선택적으로 weserv.nl 이미지 프록시를 사용할 수 있습니다.이미지 프록시에서로드 된 이미지는 크기가 작아서 빠르게로드되고 대역폭을 저장합니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth." xml:space="preserve">
+        <source>Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth.</source>
+        <target>겉날개는이 장치에 표시되도록 최적화 된 이미지를로드하기 위해 선택적으로 weserv.nl 이미지 프록시를 사용할 수 있습니다.이미지 프록시를 통해로드 된 이미지는 크기가 작아서 빠르게로드되고 대역폭을 저장합니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Elytra can send you push notifications when new articles are published." xml:space="preserve">
+        <source>Elytra can send you push notifications when new articles are published.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Elytra is free to try for 14 days" xml:space="preserve">
+        <source>Elytra is free to try for 14 days</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Elytra never requests for your email ID. The Sign in with Apple option will not share your Email ID with Elytra." xml:space="preserve">
+        <source>Elytra never requests for your email ID. The Sign in with Apple option will not share your Email ID with Elytra.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Email Support" xml:space="preserve">
+        <source>Email Support</source>
+        <target>지원 이메일 보내기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Empty Content" xml:space="preserve">
+        <source>Empty Content</source>
+        <target>빈 내용</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable" xml:space="preserve">
+        <source>Enable</source>
+        <target>할 수있게하다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enable Push Notifications" xml:space="preserve">
+        <source>Enable Push Notifications</source>
+        <target>푸시 알림 사용</target>
+        <note>Notifications</note>
+      </trans-unit>
+      <trans-unit id="Enable Reader Mode" xml:space="preserve">
+        <source>Enable Reader Mode</source>
+        <target>리더 모드 활성화</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." xml:space="preserve">
+        <source>Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth.</source>
+        <target>이를 활성화하면 피드 목록의 이미지 표지가 표시됩니다.이 설정은 대역폭 설정에 영향을받습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Bookmarking" xml:space="preserve">
+        <source>Error Bookmarking</source>
+        <target>오류 북마크</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Deleting Feed" xml:space="preserve">
+        <source>Error Deleting Feed</source>
+        <target>피드를 삭제하는 중 오류가 발생했습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Fetching Filters" xml:space="preserve">
+        <source>Error Fetching Filters</source>
+        <target>필터를 가져 오는 중 오류가 발생했습니다</target>
+        <note>Filters</note>
+      </trans-unit>
+      <trans-unit id="Error Loading Feeds" xml:space="preserve">
+        <source>Error Loading Feeds</source>
+        <target>오류로드 피드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Loading Subscription" xml:space="preserve">
+        <source>Error Loading Subscription</source>
+        <target>가입 오류로드 중 오류가 발생했습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Loading Subscriptions" xml:space="preserve">
+        <source>Error Loading Subscriptions</source>
+        <target>구독을로드하는 중 오류가 발생했습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Marking Read" xml:space="preserve">
+        <source>Error Marking Read</source>
+        <target>오류 표시 읽기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Marking Unread" xml:space="preserve">
+        <source>Error Marking Unread</source>
+        <target>읽지 않은 오류가 발생했습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Moving Folder" xml:space="preserve">
+        <source>Error Moving Folder</source>
+        <target>오류 이동 폴더</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Parsing" xml:space="preserve">
+        <source>Error Parsing</source>
+        <target>오류 구문 분석</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Preparing Information" xml:space="preserve">
+        <source>Error Preparing Information</source>
+        <note>Title: Error when preparing info for contacting support, under Settings &gt; Contact</note>
+      </trans-unit>
+      <trans-unit id="Error Processing" xml:space="preserve">
+        <source>Error Processing</source>
+        <target>오류 처리</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Purchasing" xml:space="preserve">
+        <source>Error Purchasing</source>
+        <target>오류 구매</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Refunding Purchase" xml:space="preserve">
+        <source>Error Refunding Purchase</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error Registering" xml:space="preserve">
+        <source>Error Registering</source>
+        <target>오류 등록</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Reloading" xml:space="preserve">
+        <source>Error Reloading</source>
+        <target>오류 다시로드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Removing Subscription" xml:space="preserve">
+        <source>Error Removing Subscription</source>
+        <target>가입 오류가 제거됩니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Restoring" xml:space="preserve">
+        <source>Error Restoring</source>
+        <target>오류 복원</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error Setting Icon" xml:space="preserve">
+        <source>Error Setting Icon</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error Unbookmarking" xml:space="preserve">
+        <source>Error Unbookmarking</source>
+        <target>Unbookmarking 오류가 발생했습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error loading the article" xml:space="preserve">
+        <source>Error loading the article</source>
+        <target>기사를로드하는 중 오류가 발생했습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every 30 minutes" xml:space="preserve">
+        <source>Every 30 minutes</source>
+        <target>매 30 분마다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Every hour" xml:space="preserve">
+        <source>Every hour</source>
+        <target>매시간</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export" xml:space="preserve">
+        <source>Export</source>
+        <target>내보내기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export Feed Settings" xml:space="preserve">
+        <source>Export Feed Settings</source>
+        <target>피드 설정 내보내기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export Logs" xml:space="preserve">
+        <source>Export Logs</source>
+        <target>로그 내보내기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export Subscriptions" xml:space="preserve">
+        <source>Export Subscriptions</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="External Apps" xml:space="preserve">
+        <source>External Apps</source>
+        <target>외부 앱</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Faded Selection Tint" xml:space="preserve">
+        <source>Faded Selection Tint</source>
+        <target>퇴색 한 선택 색조</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Failed to Create" xml:space="preserve">
+        <source>Failed to Create</source>
+        <target>만들지 못했습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Failed to Delete Filter" xml:space="preserve">
+        <source>Failed to Delete Filter</source>
+        <target>필터를 삭제하지 못했습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Failed to Update" xml:space="preserve">
+        <source>Failed to Update</source>
+        <target>업데이트하지 못했습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Failed to add Filter" xml:space="preserve">
+        <source>Failed to add Filter</source>
+        <target>필터를 추가하지 못했습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Failed to load Products" xml:space="preserve">
+        <source>Failed to load Products</source>
+        <target>제품을로드하지 못했습니다</target>
+        <note>Failed to load Products</note>
+      </trans-unit>
+      <trans-unit id="Feed Exists" xml:space="preserve">
+        <source>Feed Exists</source>
+        <target>피드가 있습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Feed Info" xml:space="preserve">
+        <source>Feed Settings</source>
+        <target>피드 정보</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Feed Menu" xml:space="preserve">
+        <source>Feed Menu</source>
+        <target>피드 메뉴</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Feed Name" xml:space="preserve">
+        <source>Feed Name</source>
+        <target>피드 이름</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Feed URL" xml:space="preserve">
+        <source>Feed URL</source>
+        <target>피드 URL.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Feeds" xml:space="preserve">
+        <source>Feeds</source>
+        <target>피드</target>
+        <note>Sidebar VC</note>
+      </trans-unit>
+      <trans-unit id="Filters" xml:space="preserve">
+        <source>Filters</source>
+        <target>필터</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Folder" xml:space="preserve">
+        <source>Folder</source>
+        <target>폴더</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Folder Menu" xml:space="preserve">
+        <source>Folder Menu</source>
+        <target>폴더 메뉴</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Folders" xml:space="preserve">
+        <source>Folders</source>
+        <target>폴더</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Font Size" xml:space="preserve">
+        <source>Font Size</source>
+        <target>글꼴 크기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Font size" xml:space="preserve">
+        <source>Font size</source>
+        <target>글꼴 크기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Force Re-Sync" xml:space="preserve">
+        <source>Force Re-Sync</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Force Re-Sync Feeds" xml:space="preserve">
+        <source>Force Re-Sync Feeds</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Frequently Asked Questions" xml:space="preserve">
+        <source>Frequently Asked Questions</source>
+        <target>Frequently Asked Questions</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Full Account" xml:space="preserve">
+        <source>Full Account</source>
+        <target>전체 계정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="General" xml:space="preserve">
+        <source>General</source>
+        <target>일반적인</target>
+        <note>Title for General Prefs Tab</note>
+      </trans-unit>
+      <trans-unit id="Go to Bookmarks" xml:space="preserve">
+        <source>Go to Bookmarks</source>
+        <target>Go to Bookmarks</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Go to Today" xml:space="preserve">
+        <source>Go to Today</source>
+        <target>Go to Today</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Go to Unread" xml:space="preserve">
+        <source>Go to Unread</source>
+        <target>Go to Unread</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Go to next article" xml:space="preserve">
+        <source>Go to next article</source>
+        <target>다음 기사로 이동하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Go to previous article" xml:space="preserve">
+        <source>Go to previous article</source>
+        <target>이전 기사로 이동하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Has Unicorn: %@" xml:space="preserve">
+        <source>Has Unicorn: %@</source>
+        <target>Has Unicorn: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Heading Font" xml:space="preserve">
+        <source>Heading Font</source>
+        <target>제목 글꼴</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Help" xml:space="preserve">
+        <source>Help</source>
+        <target>도움말</target>
+        <note>Logs</note>
+      </trans-unit>
+      <trans-unit id="Hide Bars" xml:space="preserve">
+        <source>Hide Bars</source>
+        <target>숨기기 막대</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide Bookmarks" xml:space="preserve">
+        <source>Hide Bookmarks</source>
+        <target>책갈피 숨기기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hides the navigation bar and toolbar in the article reader when scrolling." xml:space="preserve">
+        <source>Hides the navigation bar and toolbar in the article reader when scrolling.</source>
+        <target>스크롤 할 때 기사 리더의 탐색 모음과 도구 모음을 숨 깁니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="High Resolution" xml:space="preserve">
+        <source>High Resolution</source>
+        <target>높은 해상도</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID." xml:space="preserve">
+        <source>If you deactivate your account and wish to activate it again, please email me on support@elytra.app with the above UUID. You can use the context menu/right click to copy the ID.</source>
+        <target>계정을 비활성화하고 다시 활성화하려면 Support@elytra.app에 위의 UUID로 이메일로 보내주십시오.컨텍스트 메뉴 / 오른쪽 버튼을 클릭하여 ID를 복사 할 수 있습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="If you have remaining days on your Pro Subscription, no refund can be issued for the same." xml:space="preserve">
+        <source>If you have remaining days on your Pro Subscription, no refund can be issued for the same.</source>
+        <target>프로 구독에 남아있는 일이 있으면 동일하게 환불되지 않습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image Bandwidth" xml:space="preserve">
+        <source>Image Bandwidth</source>
+        <target>이미지 대역폭</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image Loading" xml:space="preserve">
+        <source>Image Loading</source>
+        <target>이미지로드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image Proxy" xml:space="preserve">
+        <source>Image Proxy</source>
+        <target>이미지 프록시</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image Resolution" xml:space="preserve">
+        <source>Image Resolution</source>
+        <target>이미지 해상도</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Images" xml:space="preserve">
+        <source>Images</source>
+        <target>이미지</target>
+        <note>Title for Images Prefs Tab</note>
+      </trans-unit>
+      <trans-unit id="Import" xml:space="preserve">
+        <source>Import</source>
+        <target>가져오기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Import Feed Settings" xml:space="preserve">
+        <source>Import Feed Settings</source>
+        <target>피드 설정 가져오기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Import Subscriptions" xml:space="preserve">
+        <source>Import Subscriptions</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Import and Export your feed settings to migrate them to your other devices. You can also use this when resetting and restoring your account." xml:space="preserve">
+        <source>Import and Export your feed settings to migrate them to your other devices. You can also use this when resetting and restoring your account.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Import and Export your feeds and folders for backups or migrating from other services." xml:space="preserve">
+        <source>Import and Export your feeds and folders for backups or migrating from other services.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Import/Export" xml:space="preserve">
+        <source>Import/Export</source>
+        <target>가져오기 / 내보내기</target>
+        <note>Import/Export</note>
+      </trans-unit>
+      <trans-unit id="Imported" xml:space="preserve">
+        <source>Imported</source>
+        <target>수입</target>
+        <note>Imported alert title</note>
+      </trans-unit>
+      <trans-unit id="Importing %d of %d" xml:space="preserve">
+        <source>Importing %1$d of %2$d</source>
+        <target>%d개 중 %d개 가져오기</target>
+        <note>Importing %d of %d</note>
+      </trans-unit>
+      <trans-unit id="Introducing Smart Folders" xml:space="preserve">
+        <source>Introducing Smart Folders</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Large" xml:space="preserve">
+        <source>Large</source>
+        <target>크기가 큰</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last Sync: %@" xml:space="preserve">
+        <source>Last Sync: %@</source>
+        <target>마지막 동기화 : %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lifetime" xml:space="preserve">
+        <source>Lifetime</source>
+        <target>일생</target>
+        <note>Lifetime</note>
+      </trans-unit>
+      <trans-unit id="Lifetime License" xml:space="preserve">
+        <source>Lifetime License</source>
+        <target>평생 라이센스</target>
+        <note>Lifetime License</note>
+      </trans-unit>
+      <trans-unit id="Line Spacing" xml:space="preserve">
+        <source>Line Spacing</source>
+        <target>라인 간격</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Line spacing" xml:space="preserve">
+        <source>Line spacing</source>
+        <target>라인 간격</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Load Full-Text" xml:space="preserve">
+        <source>Load Full-Text</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Local Notifications" xml:space="preserve">
+        <source>Local Notifications</source>
+        <target>로컬 알림</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Long Term" xml:space="preserve">
+        <source>Long Term</source>
+        <target>장기간</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Low Resolution" xml:space="preserve">
+        <source>Low Resolution</source>
+        <target>저해상도</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Manually" xml:space="preserve">
+        <source>Manually</source>
+        <target>수동으로</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mark All Read" xml:space="preserve">
+        <source>Mark All Read</source>
+        <target>모두 읽는 것을 표시합니까</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mark All Read?" xml:space="preserve">
+        <source>Mark All Read?</source>
+        <target>모두 읽는 것을 표시합니까?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mark Newer Read" xml:space="preserve">
+        <source>Mark Newer Read</source>
+        <target>Mark Newer 읽기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mark Older Read" xml:space="preserve">
+        <source>Mark Older Read</source>
+        <target>더 오래된 표시를 표시하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mark Read" xml:space="preserve">
+        <source>Mark Read</source>
+        <target>표시를 읽습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mark Read Prompt" xml:space="preserve">
+        <source>Mark Read Prompt</source>
+        <target>읽기 프롬프트를 표시하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mark Read on Scroll" xml:space="preserve">
+        <source>Mark Read on Scroll</source>
+        <target>스크롤에서 표시를 읽습니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mark Unread" xml:space="preserve">
+        <source>Mark Unread</source>
+        <target>읽지 않은 상태로 표시하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Medium Resolution" xml:space="preserve">
+        <source>Medium Resolution</source>
+        <target>중간 해상도</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mirror Full UI" xml:space="preserve">
+        <source>Mirror Full UI</source>
+        <target>거울 전체 UI</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Misc" xml:space="preserve">
+        <source>Misc</source>
+        <target>기타</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Miscellaneous" xml:space="preserve">
+        <source>Miscellaneous</source>
+        <target>여러 가지 잡다한</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Monthly" xml:space="preserve">
+        <source>Monthly</source>
+        <target>월간 간행물</target>
+        <note>STORE VC</note>
+      </trans-unit>
+      <trans-unit id="MonthlyDesc" xml:space="preserve">
+        <source>No limit on number of feeds.
+Real-time Push Notifications.
+Integrated syncing across all of your devices.
+Support an Indie Developer.</source>
+        <target>피드 수에 대한 제한이 없습니다.
+실시간 푸시 알림.
+모든 장치에서 통합 된 동기화.
+인디 개발자를 지원하십시오.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Move" xml:space="preserve">
+        <source>Move</source>
+        <target>이동하다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Never" xml:space="preserve">
+        <source>Never</source>
+        <target>절대</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Never load images" xml:space="preserve">
+        <source>Never load images</source>
+        <target>이미지를로드하지 마십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New" xml:space="preserve">
+        <source>New</source>
+        <target>새로운</target>
+        <note>Common Actions</note>
+      </trans-unit>
+      <trans-unit id="New Feed" xml:space="preserve">
+        <source>New Feed</source>
+        <target>새로운 피드</target>
+        <note>New Feed/Folder</note>
+      </trans-unit>
+      <trans-unit id="New Folder" xml:space="preserve">
+        <source>New Folder</source>
+        <target>새 폴더</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Smart Folder" xml:space="preserve">
+        <source>New Smart Folder</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Window" xml:space="preserve">
+        <source>New Window</source>
+        <target>새로운 윈도우</target>
+        <note>Menu</note>
+      </trans-unit>
+      <trans-unit id="Next Article" xml:space="preserve">
+        <source>Next Article</source>
+        <target>다음 기사</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Next Result" xml:space="preserve">
+        <source>Next Result</source>
+        <target>다음 결과보</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Next search result" xml:space="preserve">
+        <source>Next search result</source>
+        <target>다음 검색 결과</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Account Setup" xml:space="preserve">
+        <source>No Account Setup</source>
+        <target>계정 설정 없음</target>
+        <note>Account Settings</note>
+      </trans-unit>
+      <trans-unit id="No File Selected" xml:space="preserve">
+        <source>No File Selected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Subscription" xml:space="preserve">
+        <source>No Subscription</source>
+        <target>구독하지 않습니다</target>
+        <note>Common Errors</note>
+      </trans-unit>
+      <trans-unit id="No Summary" xml:space="preserve">
+        <source>No Summary</source>
+        <target>요약 없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No article found" xml:space="preserve">
+        <source>No article found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No article received after reloading." xml:space="preserve">
+        <source>No article received after reloading.</source>
+        <target>다시로드 후 기사가 수신되지 않았습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No limit on number of feeds.&#10;Real-time Push Notifications.&#10;Integrated syncing across all of your devices.&#10;Support an Indie Developer." xml:space="preserve">
+        <source>No limit on number of feeds.
+Real-time Push Notifications.
+Integrated syncing across all of your devices.
+Support an Indie Developer.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No recent articles" xml:space="preserve">
+        <source>No recent articles</source>
+        <target>최근 기사 없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No unread articles" xml:space="preserve">
+        <source>No unread articles</source>
+        <target>읽지 않은 기사가 없습니다</target>
+        <note>Feed VC</note>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <target>없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notifications" xml:space="preserve">
+        <source>Notifications</source>
+        <target>알림</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notifications for this feed will be near real-time." xml:space="preserve">
+        <source>Notifications for this feed will be near real-time.</source>
+        <target>이 피드에 대한 알림은 실시간에 가까울 것입니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notify New Articles" xml:space="preserve">
+        <source>Notify New Articles</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Number of summary lines to show when viewing list of Articles." xml:space="preserve">
+        <source>Number of summary lines to show when viewing list of Articles.</source>
+        <target>조항 목록을 볼 때 표시 할 요약 라인 수입니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Number of summary lines to show when viewing the list of Articles." xml:space="preserve">
+        <source>Number of summary lines to show when viewing the list of Articles.</source>
+        <target>조항 목록을 볼 때 표시 할 요약 줄의 수.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OPML" xml:space="preserve">
+        <source>OPML</source>
+        <target>opml.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ok" xml:space="preserve">
+        <source>Ok</source>
+        <target>확인</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Okay" xml:space="preserve">
+        <source>Okay</source>
+        <target>괜찮아</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds." xml:space="preserve">
+        <source>Once your account is deactivated, all your account data is usually deleted within an hour. Please make sure you have taken an export of your feeds.</source>
+        <target>계정이 비활성화되면 모든 계정 데이터가 일반적으로 1 시간 이내에 삭제됩니다.피드를 수출했는지 확인하십시오.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="One time purchase, includes all benefits of the pro subscriptions." xml:space="preserve">
+        <source>One time purchase, includes all benefits of the pro subscriptions.</source>
+        <target>1회 구매에는 프로 구독의 모든 혜택이 포함됩니다.</target>
+        <note>LifetimeDesc</note>
+      </trans-unit>
+      <trans-unit id="One-time purchase" xml:space="preserve">
+        <source>One-time purchase</source>
+        <target>일회성 구매</target>
+        <note>One-time purchase</note>
+      </trans-unit>
+      <trans-unit id="Open Unread" xml:space="preserve">
+        <source>Open Unread</source>
+        <target>읽지 않은 읽지 않은</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open in Browser" xml:space="preserve">
+        <source>Open in Browser</source>
+        <target>브라우저에서 열려</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open in New Window" xml:space="preserve">
+        <source>Open in New Window</source>
+        <target>새로운 윈도우에서 열기</target>
+        <note>Open in New Window title</note>
+      </trans-unit>
+      <trans-unit id="Open web pages in background in browser" xml:space="preserve">
+        <source>Open web pages in background in browser</source>
+        <target>브라우저에서 배경에서 웹 페이지를 엽니 다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Opens in Browser" xml:space="preserve">
+        <source>Opens in Browser</source>
+        <target>브라우저에서 열립니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Optionally hide unread counters only from feeds and folders." xml:space="preserve">
+        <source>Optionally hide unread counters only from feeds and folders.</source>
+        <target>선택적으로 FEEDS 및 폴더에서만 읽지 않은 카운터 만 숨 깁니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Package not Found" xml:space="preserve">
+        <source>Package not Found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Paragraph Font" xml:space="preserve">
+        <source>Paragraph Font</source>
+        <target>단락 글꼴</target>
+        <note>Article View Prefs</note>
+      </trans-unit>
+      <trans-unit id="Pay as you go" xml:space="preserve">
+        <source>Pay as you go</source>
+        <target>당신이가는대로 지불</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please confirm you have taken an export of your feeds and folders as a backup." xml:space="preserve">
+        <source>Please confirm you have taken an export of your feeds and folders as a backup.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Portrait Lock" xml:space="preserve">
+        <source>Portrait Lock</source>
+        <target>초상화 잠금</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Preferences" xml:space="preserve">
+        <source>Preferences</source>
+        <target>환경설정</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Press the shift key to do the opposite" xml:space="preserve">
+        <source>Press the shift key to do the opposite</source>
+        <target>Shift 키를 눌러 반대를하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Previous Article" xml:space="preserve">
+        <source>Previous Article</source>
+        <target>이전 기사</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Previous Result" xml:space="preserve">
+        <source>Previous Result</source>
+        <target>이전 결과를</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Previous search result" xml:space="preserve">
+        <source>Previous search result</source>
+        <target>이전 검색 결과</target>
+        <note>ArticleVC</note>
+      </trans-unit>
+      <trans-unit id="Private. Focused. Feed Reader." xml:space="preserve">
+        <source>Private. Focused. Feed Reader.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Processing File" xml:space="preserve">
+        <source>Processing File</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Processing..." xml:space="preserve">
+        <source>Processing...</source>
+        <target>가공 ...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Purchasing" xml:space="preserve">
+        <source>Purchasing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Push Notifications" xml:space="preserve">
+        <source>Push Notifications</source>
+        <target>푸시 알림</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rate on AppStore" xml:space="preserve">
+        <source>Rate on AppStore</source>
+        <target>AppStore에서의 비율</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Re-Sync" xml:space="preserve">
+        <source>Re-Sync</source>
+        <target>재 동기화</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Re-Sync All" xml:space="preserve">
+        <source>Re-Sync All</source>
+        <target>모두 다시 동기화됩니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Re-Sync Feeds" xml:space="preserve">
+        <source>Re-Sync Feeds</source>
+        <target>다시 동기화하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Read" xml:space="preserve">
+        <source>Read</source>
+        <target>읽다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reader" xml:space="preserve">
+        <source>Reader</source>
+        <target>리더</target>
+        <note>Title for Reader Prefs Tab</note>
+      </trans-unit>
+      <trans-unit id="Reader Bar Size" xml:space="preserve">
+        <source>Reader Bar Size</source>
+        <target>리더 막대 크기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Redownload" xml:space="preserve">
+        <source>Redownload</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Refresh" xml:space="preserve">
+        <source>Refresh</source>
+        <target>새로 고침</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Refresh Feeds" xml:space="preserve">
+        <source>Refresh Feeds</source>
+        <target>Refresh Feeds</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Refresh feeds" xml:space="preserve">
+        <source>Refresh feeds:</source>
+        <target>새로 고침 피드 :</target>
+        <note>General Prefs</note>
+      </trans-unit>
+      <trans-unit id="Refund Request Processed" xml:space="preserve">
+        <source>Refund Request Processed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Regular" xml:space="preserve">
+        <source>Regular</source>
+        <target>정기적 인</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Relax Mode" xml:space="preserve">
+        <source>Relax Mode</source>
+        <target>휴식 모드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Release Builds" xml:space="preserve">
+        <source>Release Builds</source>
+        <target>빌드 릴리스</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rename" xml:space="preserve">
+        <source>Rename</source>
+        <target>이름 바꾸기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rename Feed" xml:space="preserve">
+        <source>Rename Feed</source>
+        <target>피드의 이름 바꾸기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reset Account" xml:space="preserve">
+        <source>Reset Account</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." xml:space="preserve">
+        <source>Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered.</source>
+        <target>계정 또는 계정의 모든 데이터를 재설정하십시오.폴더 나 피드를 재설정하기 전에 피드를 OPML 파일로 내보내십시오.데이터가 재설정되면 복구 할 수 없습니다.</target>
+        <note>ResetVC</note>
+      </trans-unit>
+      <trans-unit id="Resolution" xml:space="preserve">
+        <source>Resolution</source>
+        <target>해결</target>
+        <note>Images Prefs</note>
+      </trans-unit>
+      <trans-unit id="Restore" xml:space="preserve">
+        <source>Restore</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Safari Reader Mode" xml:space="preserve">
+        <source>Safari Reader Mode</source>
+        <target>사파리 리더 모드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <target>찾다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search Article Content" xml:space="preserve">
+        <source>Search Article Content</source>
+        <target>기사 콘텐츠 검색</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search for keywords in the article" xml:space="preserve">
+        <source>Search for keywords in the article</source>
+        <target>기사에서 키워드를 검색하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search in article" xml:space="preserve">
+        <source>Search in article</source>
+        <target>기사에서 검색하기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select a Folder" xml:space="preserve">
+        <source>Select a Folder</source>
+        <target>폴더를 선택하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select a file" xml:space="preserve">
+        <source>Select a file</source>
+        <target>파일을 선택하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select a subscription plan" xml:space="preserve">
+        <source>Select a subscription plan</source>
+        <target>구독 계획을 선택하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select a subscription to get started" xml:space="preserve">
+        <source>Select a subscription to get started</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Selective" xml:space="preserve">
+        <source>Selective</source>
+        <target>선택적</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Set up your account" xml:space="preserve">
+        <source>Set up your account</source>
+        <target>귀하의 계정을 설정하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Set whether the app should prompt you when marking articles as read." xml:space="preserve">
+        <source>Set whether the app should prompt you when marking articles as read.</source>
+        <target>앱이 기사를 읽을 때 앱을 묻는 메시지 여부를 설정합니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Set whether you want to see the number of unread articles in each section." xml:space="preserve">
+        <source>Set whether you want to see the number of unread articles in each section.</source>
+        <target>각 섹션에서 읽지 않은 기사의 수를보고 싶지 않은지 여부를 설정하십시오.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target>설정</target>
+        <note>Settings</note>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target>공유하다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share Article" xml:space="preserve">
+        <source>Share Article</source>
+        <target>기사 공유</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share Feed URL" xml:space="preserve">
+        <source>Share Feed URL</source>
+        <target>주식 공급 URL</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share URL" xml:space="preserve">
+        <source>Share URL</source>
+        <target>URL 공유</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share Website URL" xml:space="preserve">
+        <source>Share Website URL</source>
+        <target>웹 사이트 URL 공유</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Short Keyword" xml:space="preserve">
+        <source>Short Keyword</source>
+        <target>짧은 키워드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Logs" xml:space="preserve">
+        <source>Show Logs</source>
+        <target>로그 보기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Onboarding" xml:space="preserve">
+        <source>Show Onboarding</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" xml:space="preserve">
+        <source>Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)</source>
+        <target>맨 위의 탐색 모음 대신 인터페이스 하단의 도구 모음의 모든 작업을 표시합니다.(앱 재시작 필요)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show cover images" xml:space="preserve">
+        <source>Show cover images</source>
+        <target>표지 이미지 표시</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show unread count" xml:space="preserve">
+        <source>Show unread count</source>
+        <target>읽지 않은 카운트를 보여줍니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show unread counters" xml:space="preserve">
+        <source>Show unread counters</source>
+        <target>읽지 않은 카운터를 보여줍니다</target>
+        <note>MISC</note>
+      </trans-unit>
+      <trans-unit id="Small" xml:space="preserve">
+        <source>Small</source>
+        <target>작은</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Smart Folder Menu" xml:space="preserve">
+        <source>Smart Folder Menu</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Smart Folder Name" xml:space="preserve">
+        <source>Smart Folder Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Smart Folders" xml:space="preserve">
+        <source>Smart Folders</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sorting Options" xml:space="preserve">
+        <source>Sorting Options</source>
+        <target>정렬 옵션</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Stay up-to date with interesting topics, focusing on specific keywords from folders." xml:space="preserve">
+        <source>Stay up-to date with interesting topics, focusing on specific keywords from folders.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Subscribe Failed" xml:space="preserve">
+        <source>Subscribe Failed</source>
+        <target>구독 실패</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Subscription" xml:space="preserve">
+        <source>Subscription</source>
+        <target>신청</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our Terms of Service and Privacy Policy." xml:space="preserve">
+        <source>Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our Terms of Service and Privacy Policy.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Summary" xml:space="preserve">
+        <source>Summary</source>
+        <target>요약</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summary Lines" xml:space="preserve">
+        <source>Summary Lines</source>
+        <target>요약 라인</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Synced %.f%%" xml:space="preserve">
+        <source>Synced %.f%%</source>
+        <target>동기화 %.f%%</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Syncing Complete" xml:space="preserve">
+        <source>Syncing Complete</source>
+        <target>동기화 완료</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Syncing..." xml:space="preserve">
+        <source>Syncing...</source>
+        <target>동기화 ...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Test Builds" xml:space="preserve">
+        <source>Test Builds</source>
+        <target>빌드 테스트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The URL or query may be invalid. Please check the URL." xml:space="preserve">
+        <source>The URL or query may be invalid. Please check the URL.</source>
+        <target>URL 또는 쿼리가 유효하지 않을 수 있습니다.URL을 확인하십시오.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The above setting is also used for galleries and Youtube video previews." xml:space="preserve">
+        <source>The above setting is also used for galleries and Youtube video previews.</source>
+        <target>위의 설정은 갤러리 및 YouTube 비디오 미리보기에도 사용됩니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded." xml:space="preserve">
+        <source>The above setting only works when the Article source provides these options. If no such option is provided in the article source, the original image is always loaded.</source>
+        <target>위의 설정은 기사 소스가 이러한 옵션을 제공 할 때만 작동합니다.기사 소스에 그러한 옵션이 없으면 원본 이미지가 항상로드됩니다.</target>
+        <note>Image Loading Settings</note>
+      </trans-unit>
+      <trans-unit id="The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this." xml:space="preserve">
+        <source>The base font size. Pargraphs are rendered at this size. Other elements derive their sizes proportional to this.</source>
+        <target>기본 글꼴 크기.pargraphs는이 크기로 렌더링됩니다.다른 요소는이 크기에 비례하는 크기를 유도합니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The font to use for drawing the headers in an article." xml:space="preserve">
+        <source>The font to use for drawing the headers in an article.</source>
+        <target>기사의 헤더 그리기에 사용할 글꼴.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The font to use for drawing the paragraph text in an article." xml:space="preserve">
+        <source>The font to use for drawing the paragraph text in an article.</source>
+        <target>기사의 단락 텍스트를 그리는 데 사용할 글꼴입니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The keyword should be atleast 3 letters" xml:space="preserve">
+        <source>The keyword should be at least 3 letters</source>
+        <target>키워드는 적어도 3 글자이어야합니다</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The monthly in-app purchase package was not found. Please contact the developer at support@elytra.app and include a screenshot." xml:space="preserve">
+        <source>The monthly in-app purchase package was not found. Please contact the developer at support@elytra.app and include a screenshot.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." xml:space="preserve">
+        <source>The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout.</source>
+        <target>두 줄의 텍스트 사이의 공간.값이 적은 소형 레이아웃을 렌더링하면 더 높은 값은 편안한 레이아웃을 렌더링합니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This feed already exists in your account." xml:space="preserve">
+        <source>This feed already exists in your account.</source>
+        <target>이 피드는 이미 귀하의 계정에 있습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This feed supports real-time notifications." xml:space="preserve">
+        <source>This feed supports real-time notifications.</source>
+        <target>이 피드는 실시간 알림을 지원합니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Title Font" xml:space="preserve">
+        <source>Title Font</source>
+        <target>제목 글꼴</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Today" xml:space="preserve">
+        <source>Today</source>
+        <target>오늘</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Sidebar" xml:space="preserve">
+        <source>Toggle Sidebar</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="URL Actions" xml:space="preserve">
+        <source>URL Actions</source>
+        <target>URL 조치</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unbookmark" xml:space="preserve">
+        <source>Unbookmark</source>
+        <target>unbookmark.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unread" xml:space="preserve">
+        <source>Unread</source>
+        <target>읽히지 않는</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unread - Latest First" xml:space="preserve">
+        <source>Unread - Latest First</source>
+        <target>읽지 않은 - 최신 첫 번째</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unread - Oldest First" xml:space="preserve">
+        <source>Unread - Oldest First</source>
+        <target>읽지 않은 - 가장 오래된 먼저</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unread Counters" xml:space="preserve">
+        <source>Unread Counters</source>
+        <target>읽지 않은 카운터</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unreads" xml:space="preserve">
+        <source>Unreads</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unsubscribe Failed" xml:space="preserve">
+        <source>Unsubscribe Failed</source>
+        <target>탈퇴 실패</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Untitled" xml:space="preserve">
+        <source>Untitled</source>
+        <target>제목 없어</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Update" xml:space="preserve">
+        <source>Update</source>
+        <target>업데이트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Updates" xml:space="preserve">
+        <source>Updates</source>
+        <target>업데이트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Use Image Proxy" xml:space="preserve">
+        <source>Use Image Proxy</source>
+        <target>이미지 프록시를 사용하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Use System Sizing" xml:space="preserve">
+        <source>Use System Sizing</source>
+        <target>시스템 크기 조정을 사용하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Use Toolbar" xml:space="preserve">
+        <source>Use Toolbar</source>
+        <target>도구 모음을 사용하십시오</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="View Subscription" xml:space="preserve">
+        <source>View Subscription</source>
+        <target>구독 보기</target>
+        <note>Menu</note>
+      </trans-unit>
+      <trans-unit id="Website URL" xml:space="preserve">
+        <source>Website URL</source>
+        <target>웹 사이트 주소</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="When disabled, only the article reader interface is casted over Airplay." xml:space="preserve">
+        <source>When disabled, only the article reader interface is casted over Airplay.</source>
+        <target>비활성화되면 기사 리더 인터페이스 만 AirPlay에서 캐스팅됩니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="When enabled, notifications for new articles from this smart folder will be displayed" xml:space="preserve">
+        <source>When enabled, notifications for new articles from this smart folder will be displayed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="When enabled, the app will open the Unread List upon launch." xml:space="preserve">
+        <source>When enabled, the app will open the Unread List upon launch.</source>
+        <target>활성화되면 앱이 시작될 때 읽지 않은 목록을 열 것입니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="When enabled, the articles list selection background color will be a light gray instead of the tint color." xml:space="preserve">
+        <source>When enabled, the articles list selection background color will be a light gray instead of the tint color.</source>
+        <target>활성화되면 기사 목록 선택 배경색이 색조가 아닌 밝은 회색이됩니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="When enabled, the articles will be opened in the browser instead of the article reader." xml:space="preserve">
+        <source>When enabled, the articles will be opened in the browser instead of the article reader.</source>
+        <target>활성화되면 문서 리더 대신 브라우저에서 기사가 열립니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="When enabled, the full-text for the article will be automatically fetched." xml:space="preserve">
+        <source>When enabled, the full-text for the article will be automatically fetched.</source>
+        <target>활성화되면 기사의 전체 텍스트가 자동으로 가져옵니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Wi-Fi Only" xml:space="preserve">
+        <source>Wi-Fi Only</source>
+        <target>Wi-Fi 전용</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Yearly" xml:space="preserve">
+        <source>Yearly</source>
+        <target>매년</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="YearlyDesc" xml:space="preserve">
+        <source>All the benefits of the Monthly Plan.
+Discounted Pricing.</source>
+        <target>월간 계획의 모든 이점.
+할인 된 가격 책정.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Yes" xml:space="preserve">
+        <source>Yes</source>
+        <target>예</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You can optionally hide the Bookmarks Tab from the Feeds Interface." xml:space="preserve">
+        <source>You can optionally hide the Bookmarks Tab from the Feeds Interface.</source>
+        <target>선택적으로 피드 인터페이스에서 책갈피 탭을 숨길 수 있습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You can optionally hide the Bookmarks Tab from the Sidebar." xml:space="preserve">
+        <source>You can optionally hide the Bookmarks Tab from the Sidebar.</source>
+        <target>선택적으로 사이드 바에서 북마크 탭을 숨길 수 있습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You may choose to restrict the app's UI only to the portrait orientation." xml:space="preserve">
+        <source>You may choose to restrict the app's UI only to the portrait orientation.</source>
+        <target>앱의 UI를 세로 방향으로만 제한하도록 선택할 수 있습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You may enable reader mode for all feeds with a single tap." xml:space="preserve">
+        <source>You may enable reader mode for all feeds with a single tap.</source>
+        <target>단일 탭으로 모든 피드에 대한 리더 모드를 활성화 할 수 있습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." xml:space="preserve">
+        <source>You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss.</source>
+        <target>가장 안정된 릴리스 만 원할 경우 릴리스를 선택해야합니다.테스트 빌드는 버그가 있고 충돌이 발생할 수 있으며 데이터가 손실 될 수 있습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your Subscription" xml:space="preserve">
+        <source>Your Subscription</source>
+        <target>귀하의 가입자</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your account has a Lifetime subscription." xml:space="preserve">
+        <source>Your account has a Lifetime subscription.</source>
+        <target>귀하의 계정에는 평생 구독이 있습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your feed settings have been successfully imported" xml:space="preserve">
+        <source>Your feed settings have been successfully imported</source>
+        <target>피드 설정을 성공적으로 가져왔습니다.</target>
+        <note>Imported alert message</note>
+      </trans-unit>
+      <trans-unit id="Your free trial is active up to %@." xml:space="preserve">
+        <source>Your free trial is active up to %@.</source>
+        <target>무료 평가판은 %@ @까지 활성화되어 있습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your preferred Twitter app. Clicking on a tweet will open this app." xml:space="preserve">
+        <source>Your preferred Twitter app. Clicking on a tweet will open this app.</source>
+        <target>원하는 트위터 앱.짹짹을 클릭하면이 앱이 열립니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your subscription expired on %@." xml:space="preserve">
+        <source>Your subscription expired on %@.</source>
+        <target>구독이 %@ @에 만료되었습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your subscription is active up to %@." xml:space="preserve">
+        <source>Your subscription is active up to %@.</source>
+        <target>구독이 %@ 까지 활성화되었습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your subscription will renew on %@." xml:space="preserve">
+        <source>Your subscription will renew on %@.</source>
+        <target>구독은 %@ 갱신됩니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="llj-MV-kuV.text" xml:space="preserve">
+        <source>Select an article from your feeds to begin reading it.</source>
+        <target>피드에서 읽으려면 물품을 선택하여 읽으십시오.</target>
+        <note>Class = "UILabel"; text = "Select an article from your feeds to begin reading it."; ObjectID = "llj-MV-kuV";</note>
+      </trans-unit>
+      <trans-unit id="no file selected" xml:space="preserve">
+        <source>no file selected</source>
+        <target>선택한 파일 없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="unreadsCountFormat" translate="no" xml:space="preserve">
+        <source>unreadsCountFormat</source>
+        <note>No comment provided by engineer. (Key in .stringsdict)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/Localisations/en.lproj/Localizable.stringsdict" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="/summaryLinesFormat:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve">
+        <source>%#@lineCount@</source>
+        <target>%#@lineCount@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/summaryLinesFormat:dict/lineCount:dict/other:dict/:string" xml:space="preserve">
+        <source>%u lines</source>
+        <target>%u줄</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/summaryLinesFormat:dict/lineCount:dict/zero:dict/:string" xml:space="preserve">
+        <source/>
+        <target/>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/unreadsCountFormat:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve">
+        <source>%#@unreadsCount@</source>
+        <target>%#@unreadsCount@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="/unreadsCountFormat:dict/unreadsCount:dict/other:dict/:string" xml:space="preserve">
+        <source>%u unreads</source>
+        <target>읽지 않은 %u개</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="/unreadsCountFormat:dict/unreadsCount:dict/zero:dict/:string" xml:space="preserve">
+        <source/>
+        <target/>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="YetiShare/Base.lproj/MainInterface.storyboard" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="ObA-dk-sSI.title" xml:space="preserve">
+        <source>Loading</source>
+        <target>Loading</target>
+        <note>Class = "UIViewController"; title = "Loading"; ObjectID = "ObA-dk-sSI";</note>
+      </trans-unit>
+      <trans-unit id="PLd-SI-Wd1.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "PLd-SI-Wd1";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="YetiShare/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Add to Elytra</source>
+        <target>딱지날개에 추가</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>YetiShare</source>
+        <target>YetiShare</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

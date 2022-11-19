@@ -19,14 +19,7 @@ The base locations have been translated using Google Translate and DeepL. Some l
 A languge is marked with a checkmark once it has been fully verified and up-to-date. If updates are issued with incompleted or unverified translations, the checkmark is removed. 
 
 ### New Languages
-If you'd like to help add new language/s to the repository, please follow the instructions mentioned below. All help with translations and languages are always appreciated. If you'd like privately submit translations, please get in touch with me at [support@elytra.app](support@elytra.app).
-
-## Instructions for Adding New Langauges 
-1. Create a folder named `{LanguageCode}.lproj`
-2. Copy the files from the `en.lproj` project into this folder. 
-3. Edit the two files namely: `Localizable.strings` and `LaunchScreen.strings` with translations in this language. 
-4. Optionally edit the `Localizable.stringsdict` file using a Plist editor like [TextMate.app](https://macromates.com) or Xcode.app. Instructions for editing this file are available [here](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPInternational/StringsdictFileFormat/StringsdictFileFormat.html) and [here](https://developer.apple.com/documentation/xcode/localizing-strings-that-contain-plurals). This file specifically contains translations for plural items. 
-5. Commit your changes and open a PR with your changes. 
+If you'd like to help add new language/s to the repository, please get in touch with me at [support@elytra.app](support@elytra.app) and I'll add the base files required for translating the language.
 
 ## Instructions for Corrections
 **A. Open an issue** 
@@ -34,8 +27,21 @@ If you'd like to help add new language/s to the repository, please follow the in
 2. Mention the correct translation string. 
 
 **B. Submit a PR**
-Follow steps 3-5 from *Instructions for Adding New Langauges* 
+![locaStudio.png](locaStudio.png)
+
+1. Download the [Loca Studio App](https://www.cunningo.com/locastudio/index.html) from their website. It's an excellent app for translating `xcloc` files. 
+2. Clone or download this repository from Github 
+3. Open the `Localisations` folder in Loca Studio 
+4. Select the language you'll be translating from the sidebar 
+5. Make you changes/corrections as necessary in the `Target` column. 
+6. Save the file frequently to ensure no errors have occurred. 
+7. 
+  - If you download a zip from Github, you can send me an archive of the folder to [support@elytra.app](mailto:support@elytra.app)
+  - If you cloned the repository, you should commit and push your changes to your fork and then open a PR to this repository. 
+
+You can refer to the app's help guide [here](https://www.cunningo.com/locastudio/support/index.html).
 
 ## License
 The contents of this repository are licensed under the MIT license. (Will evaluate if Creative Commons License is more appropriate shortly). 
+
 This means if you find any translations useful for your own apps, please feel free to use them.
