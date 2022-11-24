@@ -239,7 +239,7 @@
       </trans-unit>
       <trans-unit id="NSHumanReadableDescription" xml:space="preserve">
         <source>This extension adds a Subscribe button to the toolbar for easily subscribing to available feeds from the current page.  </source>
-        <target>This extension adds a Subscribe button to the toolbar for easily subscribing to available feeds from the current page.  </target>
+        <target>This extension adds a Subscribe button to the toolbar for easily subscribing to available feeds from the current page.</target>
         <note>Human readable description</note>
       </trans-unit>
     </body>
@@ -573,7 +573,7 @@ Push Notifications are also used for keeping your devices in-sync with each othe
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>Save images you select from articles to your photos.  </source>
-        <target>Save images you select from articles to your photos.  </target>
+        <target>Save images you select from articles to your photos.</target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="OPML" xml:space="preserve">
@@ -622,7 +622,7 @@ Push Notifications are also used for keeping your devices in-sync with each othe
     <body>
       <trans-unit id="8ie-xW-0ye.text" xml:space="preserve">
         <source>  Copyright (c) 2015 Dezine Zync Studios LLP. All rights reserved.</source>
-        <target>  Copyright (c) 2015-2022 Dezine Zync Studios LLP. All rights reserved.</target>
+        <target>Copyright (c) 2015-2022 Dezine Zync Studios LLP. All rights reserved.</target>
         <note>Class = "UILabel"; text = "  Copyright (c) 2015 Dezine Zync Studios LLP. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
       </trans-unit>
       <trans-unit id="kId-c2-rCX.text" xml:space="preserve">
@@ -2533,7 +2533,7 @@ Discounted Pricing.</target>
       </trans-unit>
       <trans-unit id="You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." xml:space="preserve">
         <source>You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss.</source>
-        <target>You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss.</target>
+        <target>You should select Release if you want only the most stable releases. Test Builds may be buggy, crash and even cause data loss.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Your Subscription" xml:space="preserve">
