@@ -991,7 +991,7 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
       </trans-unit>
       <trans-unit id="Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." xml:space="preserve">
         <source>Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account.</source>
-        <target>Conectar ID de Apple a cuenta de Elytra. Esto permitirá iniciar la sesión en otras plataformas también.</target>
+        <target>Conecta tu Apple ID a tu cuenta de Elytra. Esto le permitirá iniciar sesión en otros dispositivos con la misma cuenta.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
