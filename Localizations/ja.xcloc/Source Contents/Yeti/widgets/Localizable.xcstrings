@@ -1,0 +1,73 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ - %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ - %2$@"
+          }
+        }
+      }
+    },
+    "All - Latest First" : {
+
+    },
+    "All - Oldest First" : {
+
+    },
+    "Bloccs" : {
+
+    },
+    "Bookmarks" : {
+
+    },
+    "Custom Font" : {
+
+    },
+    "Folders" : {
+
+    },
+    "Latest unread article from a feed" : {
+
+    },
+    "Latest unread articles as bloccs" : {
+
+    },
+    "Latest unread articles from a folder" : {
+
+    },
+    "Latest unread articles from your account" : {
+
+    },
+    "No Unreads" : {
+      "comment" : "No Unreads"
+    },
+    "No unreads in this folder" : {
+      "comment" : "No unreads in this folder"
+    },
+    "Recent Unreads" : {
+
+    },
+    "Solo" : {
+
+    },
+    "Today" : {
+
+    },
+    "Unread" : {
+
+    },
+    "Unread - Latest First" : {
+
+    },
+    "Unread - Oldest First" : {
+
+    },
+    "Unread Articles" : {
+
+    }
+  },
+  "version" : "1.0"
+}

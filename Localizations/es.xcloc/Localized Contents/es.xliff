@@ -1,12 +1,340 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="../../DZ/purchases-ios/RevenueCatUI/Resources/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="%d%% off" xml:space="preserve">
+        <source>%d%% off</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="2 Month" xml:space="preserve">
+        <source>2 Month</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="3 Month" xml:space="preserve">
+        <source>3 Month</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="6 Month" xml:space="preserve">
+        <source>6 Month</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All subscriptions" xml:space="preserve">
+        <source>All plans</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Annual" xml:space="preserve">
+        <source>Annual</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Continue" xml:space="preserve">
+        <source>Continue</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Default_offer_details_with_intro_offer" xml:space="preserve">
+        <source>Start your {{ sub_offer_duration }} trial, then {{ total_price_and_per_month }}.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Eligible" xml:space="preserve">
+        <source>Eligible</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ineligible" xml:space="preserve">
+        <source>Ineligible</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Lifetime" xml:space="preserve">
+        <source>Lifetime</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Loading" xml:space="preserve">
+        <source>Loading</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Monthly" xml:space="preserve">
+        <source>Monthly</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Privacy" xml:space="preserve">
+        <source>Privacy</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Privacy policy" xml:space="preserve">
+        <source>Privacy policy</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Purchases restored successfully!" xml:space="preserve">
+        <source>Purchases restored successfully!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Restore" xml:space="preserve">
+        <source>Restore</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Restore purchases" xml:space="preserve">
+        <source>Restore purchases</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Terms" xml:space="preserve">
+        <source>Terms</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Terms and conditions" xml:space="preserve">
+        <source>Terms and conditions</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Weekly" xml:space="preserve">
+        <source>Weekly</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../../DZ/purchases-ios/Sources/Resources/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Configuration" xml:space="preserve">
+        <source>Configuration</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Customer Info" xml:space="preserve">
+        <source>Customer Info</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Data" xml:space="preserve">
+        <source>Data</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Description" xml:space="preserve">
+        <source>Description</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Diagnostics" xml:space="preserve">
+        <source>Diagnostics</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Display StoreView" xml:space="preserve">
+        <source>Display StoreView</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Display SubscriptionStoreView" xml:space="preserve">
+        <source>Display SubscriptionStoreView</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Entitlement Verification Mode" xml:space="preserve">
+        <source>Entitlement Verification Mode</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Entitlements" xml:space="preserve">
+        <source>Entitlements</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error" xml:space="preserve">
+        <source>Error</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error loading customer info: %@" xml:space="preserve">
+        <source>Error loading customer info: %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error loading offerings: %@" xml:space="preserve">
+        <source>Error loading offerings: %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Export" xml:space="preserve">
+        <source>Export</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Identifier" xml:space="preserve">
+        <source>Identifier</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="JSON" xml:space="preserve">
+        <source>JSON</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Latest Expiration Date" xml:space="preserve">
+        <source>Latest Expiration Date</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading..." xml:space="preserve">
+        <source>Loading...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Locale" xml:space="preserve">
+        <source>Locale</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Metadata" xml:space="preserve">
+        <source>Metadata</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Observer mode" xml:space="preserve">
+        <source>Observer mode</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Offering" xml:space="preserve">
+        <source>Offering</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Offering Metadata" xml:space="preserve">
+        <source>Offering Metadata</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Offerings" xml:space="preserve">
+        <source>Offerings</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Offline Customer Info" xml:space="preserve">
+        <source>Offline Customer Info</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Original User ID" xml:space="preserve">
+        <source>Original User ID</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Package" xml:space="preserve">
+        <source>Package</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Packages" xml:space="preserve">
+        <source>Packages</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Paywalls" xml:space="preserve">
+        <source>Paywalls</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Premium Access" xml:space="preserve">
+        <source>Premium Access</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Price" xml:space="preserve">
+        <source>Price</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Product" xml:space="preserve">
+        <source>Product</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchase with RevenueCat" xml:space="preserve">
+        <source>Purchase with RevenueCat</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchase with StoreKit" xml:space="preserve">
+        <source>Purchase with StoreKit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchasing" xml:space="preserve">
+        <source>Purchasing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Receipt URL" xml:space="preserve">
+        <source>Receipt URL</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Receipt status" xml:space="preserve">
+        <source>Receipt status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="RevenueCat Debug" xml:space="preserve">
+        <source>RevenueCat Debug</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="RevenueCat Demo Paywall" xml:space="preserve">
+        <source>RevenueCat Demo Paywall</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="RevenueCatUI" xml:space="preserve">
+        <source>RevenueCatUI</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="RevenueCatUI Paywall" xml:space="preserve">
+        <source>RevenueCatUI Paywall</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="RevenueCatUI paywall" xml:space="preserve">
+        <source>RevenueCatUI paywall</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SDK version" xml:space="preserve">
+        <source>SDK version</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sandbox" xml:space="preserve">
+        <source>Sandbox</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show in Finder" xml:space="preserve">
+        <source>Show in Finder</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Status" xml:space="preserve">
+        <source>Status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="StoreKit 2" xml:space="preserve">
+        <source>StoreKit 2</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Type" xml:space="preserve">
+        <source>Type</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unlimited access to premium content." xml:space="preserve">
+        <source>Unlimited access to premium content.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="User ID" xml:space="preserve">
+        <source>User ID</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="🐈" xml:space="preserve">
+        <source>🐈</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../../DZ/Settings/Sources/Settings/Resources/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="preferences" xml:space="preserve">
+        <source>Preferences</source>
+        <target state="translated">Preferencias</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings" xml:space="preserve">
+        <source>Settings</source>
+        <target state="translated">Ajustes</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
   <file original="../../DZ/UIPredicateEditor/Sources/UIPredicateEditor/Resources/en.lproj/Localizable.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="Add Filter" xml:space="preserve">
-        <source>Add Filter</source><target>Añadir filtro</target>
+        <source>Add Filter</source>
+        <target>Añadir filtro</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -16,16 +344,17 @@
       </trans-unit>
       <trans-unit id="Any" xml:space="preserve">
         <source>Any</source>
-        <target>Cualquiera</target>
+        <target>Cualquier</target>
         <note>Any</note>
       </trans-unit>
       <trans-unit id="Combination" xml:space="preserve">
-        <source>Combination</source><target>Combinación</target>
+        <source>Combination</source>
+        <target>Combinación</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
-        <target>Eliminar</target>
+        <target>Borrar</target>
         <note>Delete action under row comments</note>
       </trans-unit>
       <trans-unit id="New" xml:space="preserve">
@@ -40,7 +369,7 @@
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
         <source>None</source>
-        <target>None</target>
+        <target>Ninguno</target>
         <note>Any</note>
       </trans-unit>
       <trans-unit id="Row Actions" xml:space="preserve">
@@ -55,7 +384,7 @@
       </trans-unit>
       <trans-unit id="begins with" xml:space="preserve">
         <source>begins with</source>
-        <target>empieza por</target>
+        <target>comienza con</target>
         <note>begins with</note>
       </trans-unit>
       <trans-unit id="between" xml:space="preserve">
@@ -70,12 +399,12 @@
       </trans-unit>
       <trans-unit id="ends with" xml:space="preserve">
         <source>ends with</source>
-        <target>termina en</target>
+        <target>termina con</target>
         <note>ends with</note>
       </trans-unit>
       <trans-unit id="in" xml:space="preserve">
         <source>in</source>
-        <target>pg</target>
+        <target>en</target>
         <note>in</note>
       </trans-unit>
       <trans-unit id="is" xml:space="preserve">
@@ -90,7 +419,7 @@
       </trans-unit>
       <trans-unit id="is greater than or equal to" xml:space="preserve">
         <source>is greater than or equal to</source>
-        <target>es mayor que o igual a</target>
+        <target>es mayor o igual que</target>
         <note>greater than or equal to</note>
       </trans-unit>
       <trans-unit id="is less than" xml:space="preserve">
@@ -100,7 +429,7 @@
       </trans-unit>
       <trans-unit id="is less than or equal to" xml:space="preserve">
         <source>is less than or equal to</source>
-        <target>es menor que o igual a</target>
+        <target>es menor o igual que</target>
         <note>less than or equal to</note>
       </trans-unit>
       <trans-unit id="is not" xml:space="preserve">
@@ -110,24 +439,51 @@
       </trans-unit>
       <trans-unit id="like" xml:space="preserve">
         <source>like</source>
-        <target>gustar</target>
+        <target>como</target>
         <note>like</note>
       </trans-unit>
       <trans-unit id="matches" xml:space="preserve">
         <source>matches</source>
-        <target>cerillas</target>
+        <target>coincide con</target>
         <note>matches</note>
       </trans-unit>
       <trans-unit id="of the following are true" xml:space="preserve">
         <source>of the following are true</source>
-        <target>las siguientes son verdaderas</target>
+        <target>de las siguientes son verdaderas</target>
         <note>of the following are true</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Mac/SupportingFiles/en.lproj/Info-notarized-InfoPlist.strings" datatype="plaintext" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Elytra</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Elytra</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSAppleEventsUsageDescription" xml:space="preserve">
+        <source>Elytra communicates with other apps on your Mac when you choose to share an article.</source>
+        <note>Privacy - AppleEvents Sending Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2016-2024 Nikhil Nigade - All Rights Reserved</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+      <trans-unit id="OPML" xml:space="preserve">
+        <source>OPML</source>
+        <note/>
       </trans-unit>
     </body>
   </file>
   <file original="notificationContext/Base.lproj/MainInterface.storyboard" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="ns6-KV-S31.text" xml:space="preserve">
@@ -144,7 +500,7 @@
   </file>
   <file original="notificationContext/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -159,9 +515,48 @@
       </trans-unit>
     </body>
   </file>
+  <file original="notificationContext/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="All - Latest First" xml:space="preserve">
+        <source>All - Latest First</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All - Oldest First" xml:space="preserve">
+        <source>All - Oldest First</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bookmarks" xml:space="preserve">
+        <source>Bookmarks</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Custom Font" xml:space="preserve">
+        <source>Custom Font</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Today" xml:space="preserve">
+        <source>Today</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unread" xml:space="preserve">
+        <source>Unread</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unread - Latest First" xml:space="preserve">
+        <source>Unread - Latest First</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unread - Oldest First" xml:space="preserve">
+        <source>Unread - Oldest First</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="notificationsService/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -175,7 +570,7 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2022 Dezine Zync Studios. All rights reserved.</source>
+        <source>© 2016-2024 Nikhil Nigade - All Rights Reserved</source>
         <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
@@ -183,7 +578,7 @@
   </file>
   <file original="safari-subscribe-ios/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -197,7 +592,7 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</source>
+        <source>© 2016-2024 Nikhil Nigade - All Rights Reserved</source>
         <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
@@ -205,7 +600,7 @@
   </file>
   <file original="safari-subscribe/Base.lproj/SafariExtensionViewController.xib" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="2Ec-kd-q2K.title" xml:space="preserve">
@@ -217,7 +612,7 @@
   </file>
   <file original="safari-subscribe/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -231,42 +626,39 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</source>
+        <source>© 2016-2024 Nikhil Nigade - All Rights Reserved</source>
         <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableDescription" xml:space="preserve">
-        <source>This extension adds a Subscribe button to the toolbar for easily subscribing to available feeds from the current page.  </source>
+        <source>This extension adds a Subscribe button to the toolbar for easily subscribing to available feeds from the current page.</source>
         <target>Esta extensión añade un botón de suscripción a la barra de herramientas para suscribirse fácilmente a los feeds disponibles en la página actual.  </target>
         <note>Human readable description</note>
       </trans-unit>
     </body>
   </file>
-  <file original="SelectFeedIntent/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
+  <file original="SelectFeedIntent/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="es">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>SelectFeedIntent</source>
-        <target>SelectFeedIntent</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>SelectFeedIntent</source>
-        <target>SelectFeedIntent</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2021 Dezine Zync Studios. All rights reserved.</source>
-        <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
+        <source>© 2016-2024 Nikhil Nigade - All Rights Reserved</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="SelectFolderIntents/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -281,26 +673,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="UnreadsWidget/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
+  <file original="Shared/Widgets/Intents/Base.lproj/BloccsIntent.intentdefinition" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>UnreadsWidget</source>
-        <target>UnreadsWidget</target>
-        <note>Bundle display name</note>
-      </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>UnreadsWidgetExtension</source>
-        <target>UnreadsWidgetExtension</target>
-        <note>Bundle name</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="UnreadsWidget/Intents/Base.lproj/BloccsIntent.intentdefinition" source-language="en" target-language="es" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="M6LS24" xml:space="preserve">
@@ -330,9 +705,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="UnreadsWidget/Intents/Base.lproj/FoldersIntent.intentdefinition" source-language="en" target-language="es" datatype="plaintext">
+  <file original="Shared/Widgets/Intents/Base.lproj/FoldersIntent.intentdefinition" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="ACONC1" xml:space="preserve">
@@ -402,9 +777,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="UnreadsWidget/Intents/Base.lproj/SoloIntent.intentdefinition" source-language="en" target-language="es" datatype="plaintext">
+  <file original="Shared/Widgets/Intents/Base.lproj/SoloIntent.intentdefinition" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="H7OzW0" xml:space="preserve">
@@ -444,9 +819,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="UnreadsWidget/Intents/Base.lproj/UnreadsIntent.intentdefinition" source-language="en" target-language="es" datatype="plaintext">
+  <file original="Shared/Widgets/Intents/Base.lproj/UnreadsIntent.intentdefinition" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="1LU3ej" xml:space="preserve">
@@ -491,41 +866,47 @@
       </trans-unit>
     </body>
   </file>
-  <file original="UnreadsWidget/SupportingFiles/en.lproj/Localizable.strings" source-language="en" target-language="es" datatype="plaintext">
+  <file original="Shared/Widgets/Intents/InfoPlist.xcstrings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
-      <trans-unit id="%@ - %@" xml:space="preserve">
-        <source>%1$@ - %2$@</source>
-        <target>%@ - %@</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>selectFolderMac</source>
+        <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="No Blog" xml:space="preserve">
-        <source>No Blog</source>
-        <target>No hay blog</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>selectFolderMac</source>
+        <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="No Unreads" xml:space="preserve">
-        <source>No Unreads</source>
-        <target>No hay sin leer</target>
-        <note>Widgets</note>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2016-2024 Nikhil Nigade - All Rights Reserved</source>
+        <note>Copyright (human-readable)</note>
       </trans-unit>
-      <trans-unit id="No unreads in this folder" xml:space="preserve">
-        <source>No unreads in this folder</source>
-        <target>No hay sin leer en la carpeta</target>
-        <note>No unreads in this folder</note>
+    </body>
+  </file>
+  <file original="Shared/Widgets/Intents/Resources/InfoPlist.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>selectFeedMac</source>
+        <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="Recent Unreads" xml:space="preserve">
-        <source>Recent Unreads</source>
-        <target>Recientes sin leer</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>selectFeedMac</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2016-2024 Nikhil Nigade - All Rights Reserved</source>
+        <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Yeti/Controllers/Root/Base.lproj/PushRequestVC.xib" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="05p-vO-3Wh.normalTitle" xml:space="preserve">
@@ -548,9 +929,21 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
       </trans-unit>
     </body>
   </file>
-  <file original="Yeti/SupportingFiles/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
+  <file original="Yeti/SupportingFiles/Localizations/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="pou-ME-U8A.title" xml:space="preserve">
+        <source>Feeds</source>
+        <target>Subscripciones</target>
+        <note>Class = "UINavigationItem"; title = "Feeds"; ObjectID = "pou-ME-U8A";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/SupportingFiles/Localizations/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -564,148 +957,56 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2016-2022 Nikhil Nigade</source>
+        <source>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</source>
         <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
-        <source>Save images you select from articles to your photos.  </source>
+        <source>Save images you select from articles to your photos.</source>
         <target>Guarda las imágenes que selecciones de los artículos en tus fotos.  </target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
       <trans-unit id="OPML" xml:space="preserve">
         <source>OPML</source>
         <target>OPML</target>
-        <note/>
+        <note>(No Comment)</note>
       </trans-unit>
       <trans-unit id="Outline Processor file containing RSS feeds" xml:space="preserve">
         <source>Outline Processor file containing RSS feeds</source>
         <target>Archivo del procesador de esquemas que contiene fuentes RSS</target>
-        <note/>
+        <note>(No Comment)</note>
       </trans-unit>
     </body>
   </file>
-  <file original="Yeti/Utilities/Settings.bundle/en.lproj/Root.strings" source-language="en" target-language="es" datatype="plaintext">
+  <file original="Yeti/SupportingFiles/Localizations/en.lproj/Localizable.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
-    </header>
-    <body>
-      <trans-unit id="Enabled" xml:space="preserve">
-        <source>Enabled</source>
-        <target>Activado</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="Group" xml:space="preserve">
-        <source>Group</source>
-        <target>Grupo</target>
-        <note>A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences.</note>
-      </trans-unit>
-      <trans-unit id="Name" xml:space="preserve">
-        <source>Name</source>
-        <target>Nombre</target>
-        <note/>
-      </trans-unit>
-      <trans-unit id="none given" xml:space="preserve">
-        <source>none given</source>
-        <target>none given</target>
-        <note/>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Yeti/Vendors/DZAppDelegate/Example/Base.lproj/LaunchScreen.xib" source-language="en" target-language="es" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
-    </header>
-    <body>
-      <trans-unit id="8ie-xW-0ye.text" xml:space="preserve">
-        <source>  Copyright (c) 2015 Dezine Zync Studios LLP. All rights reserved.</source>
-        <target>Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.</target>
-        <note>Class = "UILabel"; text = "  Copyright (c) 2015 Dezine Zync Studios LLP. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
-      </trans-unit>
-      <trans-unit id="kId-c2-rCX.text" xml:space="preserve">
-        <source>DZAppDelegate</source>
-        <target>DZAppDelegate</target>
-        <note>Class = "UILabel"; text = "DZAppDelegate"; ObjectID = "kId-c2-rCX";</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Yeti/Vendors/DZAppDelegate/Example/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>DZAppDelegate</source>
-        <target>DZAppDelegate</target>
-        <note>Bundle name</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Yeti/Vendors/DZKit/ColumnApp/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>ColumnApp</source>
-        <target>ColumnApp</target>
-        <note>Bundle name</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Yeti/Vendors/DZKit/DZKit/en.lproj/Localizable.strings" source-language="en" target-language="es" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
-    </header>
-    <body>
-      <trans-unit id="An error occured" xml:space="preserve">
-        <source>An error occurred</source><target>Ocurrió un error</target>
-        <note>An error occured</note>
-      </trans-unit>
-      <trans-unit id="An unknown error occured. Please try again." xml:space="preserve">
-        <source>An unknown error occurred. Please try again.</source><target>Error desconocido. Vuelva a intentarlo</target>
-        <note>An unknown error occured. Please try again.</note>
-      </trans-unit>
-      <trans-unit id="Ok" xml:space="preserve">
-        <source>Ok</source>
-        <target>Ok</target>
-        <note>Ok</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Yeti/Vendors/DZKit/DZKitTestApp/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName" xml:space="preserve">
-        <source>DZKitTestApp</source>
-        <target>DZKitTestApp</target>
-        <note>Bundle name</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Yeti/Vendors/Localisations/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="es" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
-    </header>
-    <body>
-      <trans-unit id="pou-ME-U8A.title" xml:space="preserve">
-        <source>Feeds</source>
-        <target>Feeds</target>
-        <note>Class = "UINavigationItem"; title = "Feeds"; ObjectID = "pou-ME-U8A";</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Yeti/Vendors/Localisations/en.lproj/Localizable.strings" source-language="en" target-language="es" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id=" Your subscription is managed externally." xml:space="preserve">
         <source> Your subscription is managed externally.</source>
         <target>Suscripción administrada externamente.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@pt" xml:space="preserve">
+        <source>%@pt</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@x" xml:space="preserve">
+        <source>%@x</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lldpt" xml:space="preserve">
+        <source>%lldpt</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="A direct feed URL should be used. Website URLs may not always work." xml:space="preserve">
+        <source>A direct feed URL should be used. Website URLs may not always work.</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Account" xml:space="preserve">
         <source>Account</source>
@@ -716,6 +1017,14 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <source>Account ID</source>
         <target>ID de la cuenta</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Action not found" xml:space="preserve">
+        <source>Action not found</source>
+        <note>Action not found</note>
+      </trans-unit>
+      <trans-unit id="Active" xml:space="preserve">
+        <source>Active</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Active Filters" xml:space="preserve">
         <source>Active Filters</source>
@@ -729,7 +1038,7 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
       </trans-unit>
       <trans-unit id="Adding Feed" xml:space="preserve">
         <source>Adding Feed</source>
-        <target>Añadiendo feed</target>
+        <target>Añadiendo subscripción</target>
         <note/>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -757,6 +1066,10 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Siempre</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Always Load Images" xml:space="preserve">
+        <source>Always Load Images</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Always load images" xml:space="preserve">
         <source>Always load images</source>
         <target>Cargar imágenes siempre</target>
@@ -783,11 +1096,11 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <note/>
       </trans-unit>
       <trans-unit id="An error occurred when preparing information for contacting supporting. Please directly send an email to support@elytra.app" xml:space="preserve">
-        <source>An error occurred when preparing information for contacting supporting. Please directly send an email to support@elytra.app</source><target>Ocurrió un error mientras se preparaba la información para contactar con el soporte. Por favor, enviar un email directamente a support@elytra.app</target>
+        <source>An error occurred when preparing information for contacting supporting. Please directly send an email to support@elytra.app</source>
         <note>Description: Error when preparing info for contacting support, under Settings &gt; Contact</note>
       </trans-unit>
-      <trans-unit id="An error occurred when processing your refund request, no other information is available at the moment." xml:space="preserve">
-        <source>An error occurred when processing your refund request, no other information is available at the moment.</source><target>Ocurrió un error mientras se procesaba su petición. No hay otra información disponible en este momento</target>
+      <trans-unit id="An unknown error has occurred" xml:space="preserve">
+        <source>An unknown error has occurred</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="An unknown error has occurred." xml:space="preserve">
@@ -798,7 +1111,7 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
       <trans-unit id="An unknown error occurred when loading products. Please contact support@elytra.app" xml:space="preserve">
         <source>An unknown error occurred when loading products. Please contact support@elytra.app</source>
         <target>Error desconocido al cargar productos. Por favor, ponerse en contacto con support@elytra.app</target>
-        <note>contact support help message</note>
+        <note/>
       </trans-unit>
       <trans-unit id="An unknown error occurred when performing this action." xml:space="preserve">
         <source>An unknown error occurred when performing this action.</source>
@@ -835,10 +1148,6 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Apariencia</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Apple has received your refund request and will process the same shortly." xml:space="preserve">
-        <source>Apple has received your refund request and will process the same shortly.</source><target>Apple ha recibido su petición de reembolso y será procesada en poco timepo</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Apps" xml:space="preserve">
         <source>Apps</source>
         <target>Apps</target>
@@ -874,13 +1183,25 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>¿Estás seguro de que quieres reiniciar la aplicación?</target>
         <note>Are you sure you want to reset the app?</note>
       </trans-unit>
+      <trans-unit id="Article" xml:space="preserve">
+        <source>Article</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Article Actions" xml:space="preserve">
         <source>Article Actions</source>
         <target>Acciones de artículo</target>
         <note>Article Actions menu title</note>
       </trans-unit>
       <trans-unit id="Article Options" xml:space="preserve">
-        <source>Article Options</source><target>Opciones de artículo</target>
+        <source>Article Options</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Article URL" xml:space="preserve">
+        <source>Article URL</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Articles" xml:space="preserve">
+        <source>Articles</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Articles by %@" xml:space="preserve">
@@ -948,22 +1269,10 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Navegador</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Buy" xml:space="preserve">
-        <source>Buy</source><target>Comprar</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>Cancelar</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Cancel Subscription" xml:space="preserve">
-        <source>Cancel Subscription</source><target>Cancelar subscripción</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Check for Updates" xml:space="preserve">
-        <source>Check for Updates</source><target>Buscar actualizaciones</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
@@ -985,13 +1294,17 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Cerrar artículo</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Completed" xml:space="preserve">
+        <source>Completed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Confirm" xml:space="preserve">
-        <source>Confirm</source><target>Confirmar</target>
+        <source>Confirm</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account." xml:space="preserve">
         <source>Connect your Apple ID to your Elytra account. This will enable you to sign in on other devices using the same account.</source>
-        <target>Conecta tu Apple ID a tu cuenta de Elytra. Esto le permitirá iniciar sesión en otros dispositivos con la misma cuenta.</target>
+        <target>Conectar ID de Apple a cuenta de Elytra. Esto permitirá iniciar la sesión en otras plataformas también.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
@@ -999,8 +1312,8 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Contacto</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Continue" xml:space="preserve">
-        <source>Continue</source><target>Continuar</target>
+      <trans-unit id="Contact Support" xml:space="preserve">
+        <source>Contact Support</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
@@ -1029,7 +1342,7 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <note/>
       </trans-unit>
       <trans-unit id="Create Private ID" xml:space="preserve">
-        <source>Create Private ID</source><target>Creair ID privado</target>
+        <source>Create Private ID</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Custom Feed Names" xml:space="preserve">
@@ -1042,6 +1355,10 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Fuentes personalizadas</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Custom Name (Optional)" xml:space="preserve">
+        <source>Custom Name (Optional)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Customization" xml:space="preserve">
         <source>Customization</source>
         <target>Personalizar</target>
@@ -1053,7 +1370,7 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <note/>
       </trans-unit>
       <trans-unit id="Data Backup" xml:space="preserve">
-        <source>Data Backup</source><target>Copia de seguridad</target>
+        <source>Data Backup</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Deactivate" xml:space="preserve">
@@ -1072,7 +1389,7 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <note/>
       </trans-unit>
       <trans-unit id="Delete Account" xml:space="preserve">
-        <source>Delete Account</source><target>Eliminar cuenta</target>
+        <source>Delete Account</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete Feed" xml:space="preserve">
@@ -1090,12 +1407,20 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Eliminar carpeta</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Delete Folder?" xml:space="preserve">
+        <source>Delete Folder?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Delete Full Text Copy" xml:space="preserve">
-        <source>Delete Full Text Copy</source><target>Eliminar copia de texto completa</target>
+        <source>Delete Full Text Copy</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete Smart Folder?" xml:space="preserve">
+        <source>Delete Smart Folder?</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete and Redownload" xml:space="preserve">
-        <source>Delete and Redownload</source><target>Eliminar y volver a descargar</target>
+        <source>Delete and Redownload</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Dismiss Search" xml:space="preserve">
@@ -1114,11 +1439,27 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <note/>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
-        <source>Edit</source><target>Editar</target>
+        <source>Edit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edit Folder" xml:space="preserve">
+        <source>Edit Folder</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Edit Smart Folder" xml:space="preserve">
-        <source>Edit Smart Folder</source><target>Editar Carpeta Inteligente</target>
+        <source>Edit Smart Folder</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Elytra Help" xml:space="preserve">
+        <source>Elytra Help</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Elytra can be used for free for up to 10 feeds. You can upgrade to a paid plan anytime. The paid plan comes with a 7-day trial after which your Apple ID will be charged." xml:space="preserve">
+        <source>Elytra can be used for free for up to 10 feeds. You can upgrade to a paid plan anytime. The paid plan comes with a 7-day trial after which your Apple ID will be charged.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Elytra can deliver near real-time push notifications for supported feeds, with updates on new articles, and background sync." xml:space="preserve">
+        <source>Elytra can deliver near real-time push notifications for supported feeds, with updates on new articles, and background sync.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded from the Image Proxy are smaller in size and therefore load faster and save bandwidth." xml:space="preserve">
@@ -1130,18 +1471,6 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <source>Elytra can optionally use the weserv.nl Image Proxy for loading images optimized to be displayed on this device. Images loaded via the Image Proxy are smaller in size and therefore load faster and save bandwidth.</source>
         <target>Elytra puede usar opcionalmente el proxy de imágenes Weserv.nL para cargar imágenes optimizadas para que se muestren en este dispositivo. Las imágenes cargadas a través del proxy de imágenes son más pequeñas en tamaño y, por lo tanto, cargan más rápido y ahorra ancho de banda.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Elytra can send you push notifications when new articles are published." xml:space="preserve">
-        <source>Elytra can send you push notifications when new articles are published.</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Elytra is free to try for 14 days" xml:space="preserve">
-        <source>Elytra is free to try for 14 days</source><target>Elitra es gratuíto por 14 días</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Elytra never requests for your email ID. The Sign in with Apple option will not share your Email ID with Elytra." xml:space="preserve">
-        <source>Elytra never requests for your email ID. The Sign in with Apple option will not share your Email ID with Elytra.</source><target>Elytra nunca le pedirá su ID de email. Al utilizar la opción de entar con Apple, nunca se comparte su ID de email</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Email Support" xml:space="preserve">
         <source>Email Support</source>
@@ -1158,6 +1487,10 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Permitir</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Enable Notifications" xml:space="preserve">
+        <source>Enable Notifications</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Enable Push Notifications" xml:space="preserve">
         <source>Enable Push Notifications</source>
         <target>Habilitar notificaciones push</target>
@@ -1167,6 +1500,10 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <source>Enable Reader Mode</source>
         <target>Habilitar el modo lector</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Enabled" xml:space="preserve">
+        <source>Enabled</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth." xml:space="preserve">
         <source>Enabling this shows cover images in the feeds list. This setting is also affected by your setting for Bandwidth.</source>
@@ -1224,7 +1561,7 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <note/>
       </trans-unit>
       <trans-unit id="Error Preparing Information" xml:space="preserve">
-        <source>Error Preparing Information</source><target>Error preparando información</target>
+        <source>Error Preparing Information</source>
         <note>Title: Error when preparing info for contacting support, under Settings &gt; Contact</note>
       </trans-unit>
       <trans-unit id="Error Processing" xml:space="preserve">
@@ -1236,10 +1573,6 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <source>Error Purchasing</source>
         <target>Error de compra</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Error Refunding Purchase" xml:space="preserve">
-        <source>Error Refunding Purchase</source><target>Error reembolsando la compara</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error Registering" xml:space="preserve">
         <source>Error Registering</source>
@@ -1262,7 +1595,7 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <note/>
       </trans-unit>
       <trans-unit id="Error Setting Icon" xml:space="preserve">
-        <source>Error Setting Icon</source><target>Error configurando icono</target>
+        <source>Error Setting Icon</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Error Unbookmarking" xml:space="preserve">
@@ -1300,10 +1633,6 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Exportar registros</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Export Subscriptions" xml:space="preserve">
-        <source>Export Subscriptions</source><target>Exportar Subscripciones</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="External Apps" xml:space="preserve">
         <source>External Apps</source>
         <target>Aplicaciones externas</target>
@@ -1324,6 +1653,10 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Error al eliminar el filtro</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Failed to Register" xml:space="preserve">
+        <source>Failed to Register</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Failed to Update" xml:space="preserve">
         <source>Failed to Update</source>
         <target>Error al actualizar</target>
@@ -1334,10 +1667,18 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Error al añadir filtro</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Failed to decode payload from id token received in response" xml:space="preserve">
+        <source>Failed to decode payload from id token received in response</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to form token URL" xml:space="preserve">
+        <source>Failed to form token URL</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Failed to load Products" xml:space="preserve">
         <source>Failed to load Products</source>
         <target>Error al cargar productos</target>
-        <note>Failed to load Products</note>
+        <note/>
       </trans-unit>
       <trans-unit id="Feed Exists" xml:space="preserve">
         <source>Feed Exists</source>
@@ -1384,6 +1725,10 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Menú carpeta</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Folder Title" xml:space="preserve">
+        <source>Folder Title</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Folders" xml:space="preserve">
         <source>Folders</source>
         <target>Carpetas</target>
@@ -1399,17 +1744,9 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Tamaño de fuente</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Force Re-Sync" xml:space="preserve">
-        <source>Force Re-Sync</source><target>Forzar sincronización</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Force Re-Sync Feeds" xml:space="preserve">
-        <source>Force Re-Sync Feeds</source><target>Forzar sincronización de feeds</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Frequently Asked Questions" xml:space="preserve">
         <source>Frequently Asked Questions</source>
-        <target>Preguntas más frecuentes</target>
+        <target>Frequently Asked Questions</target>
         <note/>
       </trans-unit>
       <trans-unit id="Full Account" xml:space="preserve">
@@ -1417,10 +1754,18 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Cuenta completa</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Full Text Content Options" xml:space="preserve">
+        <source>Full Text Content Options</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="General" xml:space="preserve">
         <source>General</source>
         <target>General</target>
         <note>Title for General Prefs Tab</note>
+      </trans-unit>
+      <trans-unit id="Get Full Text" xml:space="preserve">
+        <source>Get Full Text</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Go to Bookmarks" xml:space="preserve">
         <source>Go to Bookmarks</source>
@@ -1429,12 +1774,12 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
       </trans-unit>
       <trans-unit id="Go to Today" xml:space="preserve">
         <source>Go to Today</source>
-        <target>Ir a Hoy</target>
+        <target>Go to Today</target>
         <note/>
       </trans-unit>
       <trans-unit id="Go to Unread" xml:space="preserve">
         <source>Go to Unread</source>
-        <target>Ir a No leídos</target>
+        <target>Go to Unread</target>
         <note/>
       </trans-unit>
       <trans-unit id="Go to next article" xml:space="preserve">
@@ -1446,11 +1791,6 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <source>Go to previous article</source>
         <target>Ir al artículo anterior</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Has Unicorn: %@" xml:space="preserve">
-        <source>Has Unicorn: %@</source>
-        <target>Has Unicorn: %@</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Heading Font" xml:space="preserve">
         <source>Heading Font</source>
@@ -1476,6 +1816,10 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <source>Hides the navigation bar and toolbar in the article reader when scrolling.</source>
         <target>Ocultar la barra de navegación y la barra de herramientas en el lector de artículos al desplazarse.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="High Res" xml:space="preserve">
+        <source>High Res</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="High Resolution" xml:space="preserve">
         <source>High Resolution</source>
@@ -1524,19 +1868,25 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
       </trans-unit>
       <trans-unit id="Import Feed Settings" xml:space="preserve">
         <source>Import Feed Settings</source>
-        <target>Importar configuración de feeds</target>
+        <target>Importar configuración subscripción</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Import Subscriptions" xml:space="preserve">
-        <source>Import Subscriptions</source><target>Importar subscipción</target>
+      <trans-unit id="Import OPML" xml:space="preserve">
+        <source>Import OPML</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import and Export your feed settings to migrate them to your other devices. You can also use this when resetting and restoring your account." xml:space="preserve">
-        <source>Import and Export your feed settings to migrate them to your other devices. You can also use this when resetting and restoring your account.</source><target>Importar y exportar su configuracion de feds para migrar a otro dispositivo. También puede utilizar esta opción cuando restaura su cuenta</target>
+        <source>Import and Export your feed settings to migrate them to your other devices. You can also use this when resetting and restoring your account.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import and Export your feeds and folders for backups or migrating from other services." xml:space="preserve">
-        <source>Import and Export your feeds and folders for backups or migrating from other services.</source><target>Importar y exportar sus feeds y las carpetas para hacer una copia de seguridad o migrar a otros dispositivos</target>
+        <source>Import and Export your feeds and folders for backups or migrating from other services.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Import and Export your feeds and folders for backups or migrating from other services.&#10;&#10;For non-plus users, this will only import feeds up to a total of 10 feeds on your account." xml:space="preserve">
+        <source>Import and Export your feeds and folders for backups or migrating from other services.
+
+For non-plus users, this will only import feeds up to a total of 10 feeds on your account.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Import/Export" xml:space="preserve">
@@ -1549,13 +1899,45 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Importado</target>
         <note>Imported alert title</note>
       </trans-unit>
+      <trans-unit id="Importing" xml:space="preserve">
+        <source>Importing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Importing %d of %d" xml:space="preserve">
         <source>Importing %1$d of %2$d</source>
         <target>Importar %d de %d</target>
         <note>Importing %d of %d</note>
       </trans-unit>
+      <trans-unit id="Importing %d of %d..." xml:space="preserve">
+        <source>Importing %1$d of %2$d...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Importing Feeds..." xml:space="preserve">
+        <source>Importing Feeds...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Importing Folders..." xml:space="preserve">
+        <source>Importing Folders...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Importing OPML" xml:space="preserve">
+        <source>Importing OPML</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Importing..." xml:space="preserve">
+        <source>Importing...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Introducing Smart Folders" xml:space="preserve">
-        <source>Introducing Smart Folders</source><target>Introduciendo Carpeta Inteligente</target>
+        <source>Introducing Smart Folders</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid URL" xml:space="preserve">
+        <source>Invalid URL</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid number of components in id token received in response" xml:space="preserve">
+        <source>Invalid number of components in id token received in response</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Large" xml:space="preserve">
@@ -1571,12 +1953,16 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
       <trans-unit id="Lifetime" xml:space="preserve">
         <source>Lifetime</source>
         <target>De por vida</target>
-        <note>Lifetime</note>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Lifetime License" xml:space="preserve">
-        <source>Lifetime License</source>
-        <target>Licencia de por vida</target>
-        <note>Lifetime License</note>
+      <trans-unit id="Lifetime subscription for Elytra.&#10;All benefits of a subscription with a single purchase." xml:space="preserve">
+        <source>Lifetime subscription for Elytra.
+All benefits of a subscription with a single purchase.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Line Height" xml:space="preserve">
+        <source>Line Height</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Line Spacing" xml:space="preserve">
         <source>Line Spacing</source>
@@ -1588,8 +1974,12 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Espaciado entre líneas</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Load Full-Text" xml:space="preserve">
-        <source>Load Full-Text</source><target>Cargar texto completo</target>
+      <trans-unit id="Load Article Text" xml:space="preserve">
+        <source>Load Article Text</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Load Full Text" xml:space="preserve">
+        <source>Load Full Text</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Local Notifications" xml:space="preserve">
@@ -1597,10 +1987,18 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Notificaciones locales</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Login to Elytra with a private ID" xml:space="preserve">
+        <source>Login to Elytra with a private ID</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Long Term" xml:space="preserve">
         <source>Long Term</source>
         <target>A largo plazo</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Low Res" xml:space="preserve">
+        <source>Low Res</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Low Resolution" xml:space="preserve">
         <source>Low Resolution</source>
@@ -1652,6 +2050,26 @@ Las notificaciones push también se utilizan para mantener sus dispositivos en s
         <target>Marcar como no leído</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Mark as Bookmarked" xml:space="preserve">
+        <source>Mark as Bookmarked</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mark as Read" xml:space="preserve">
+        <source>Mark as Read</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mark as Unread" xml:space="preserve">
+        <source>Mark as Unread</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Max Feeds Limit" xml:space="preserve">
+        <source>Max Feeds Limit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Medium Res" xml:space="preserve">
+        <source>Medium Res</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Medium Resolution" xml:space="preserve">
         <source>Medium Resolution</source>
         <target>Media</target>
@@ -1697,13 +2115,17 @@ Apoyar a un desarrollador indie.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
-        <source>Name</source><target>Nombre</target>
+        <source>Name</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Never" xml:space="preserve">
         <source>Never</source>
         <target>Nunca</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Never Load Images" xml:space="preserve">
+        <source>Never Load Images</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Never load images" xml:space="preserve">
         <source>Never load images</source>
@@ -1726,7 +2148,7 @@ Apoyar a un desarrollador indie.</target>
         <note/>
       </trans-unit>
       <trans-unit id="New Smart Folder" xml:space="preserve">
-        <source>New Smart Folder</source><target>Nueva Carpeta Inteligente</target>
+        <source>New Smart Folder</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New Window" xml:space="preserve">
@@ -1755,7 +2177,7 @@ Apoyar a un desarrollador indie.</target>
         <note>Account Settings</note>
       </trans-unit>
       <trans-unit id="No File Selected" xml:space="preserve">
-        <source>No File Selected</source><target>Ningún archivo seleccionado</target>
+        <source>No File Selected</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Subscription" xml:space="preserve">
@@ -1768,21 +2190,10 @@ Apoyar a un desarrollador indie.</target>
         <target>Sin resumen</target>
         <note/>
       </trans-unit>
-      <trans-unit id="No article found" xml:space="preserve">
-        <source>No article found</source><target>No se encontraron artículos</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="No article received after reloading." xml:space="preserve">
         <source>No article received after reloading.</source>
         <target>No se ha recibido ningún artículo después de la recarga.</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="No limit on number of feeds.&#10;Real-time Push Notifications.&#10;Integrated syncing across all of your devices.&#10;Support an Indie Developer." xml:space="preserve">
-        <source>No limit on number of feeds.
-Real-time Push Notifications.
-Integrated syncing across all of your devices.
-Support an Indie Developer.</source>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No recent articles" xml:space="preserve">
         <source>No recent articles</source>
@@ -1810,7 +2221,7 @@ Support an Indie Developer.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Notify New Articles" xml:space="preserve">
-        <source>Notify New Articles</source><target>Notificar nuevos artículos</target>
+        <source>Notify New Articles</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Number of summary lines to show when viewing list of Articles." xml:space="preserve">
@@ -1822,6 +2233,10 @@ Support an Indie Developer.</source>
         <source>Number of summary lines to show when viewing the list of Articles.</source>
         <target>Número de líneas de resumen que se muestran en la lista de artículos.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OPML" xml:space="preserve">
         <source>OPML</source>
@@ -1843,15 +2258,13 @@ Support an Indie Developer.</source>
         <target>Una vez que se desactiva la cuenta, todos los datos se eliminan en de una hora. Por favor, asegúrese de haber exportado  de sus subscripciones.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="One time purchase, includes all benefits of the pro subscriptions." xml:space="preserve">
-        <source>One time purchase, includes all benefits of the pro subscriptions.</source>
-        <target>Compra única, incluye todas las ventajas de las suscripciones pro.</target>
-        <note>LifetimeDesc</note>
+      <trans-unit id="Only the folder will be deleted, any feeds contained within will not be deleted." xml:space="preserve">
+        <source>Only the folder will be deleted, any feeds contained within will not be deleted.</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="One-time purchase" xml:space="preserve">
-        <source>One-time purchase</source>
-        <target>Compra única</target>
-        <note>One-time purchase</note>
+      <trans-unit id="Only the smart folder will be deleted, articlesd displayed within will not be deleted." xml:space="preserve">
+        <source>Only the smart folder will be deleted, articlesd displayed within will not be deleted.</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open Unread" xml:space="preserve">
         <source>Open Unread</source>
@@ -1868,6 +2281,10 @@ Support an Indie Developer.</source>
         <target>Abrir en una ventana nueva</target>
         <note>Open in New Window title</note>
       </trans-unit>
+      <trans-unit id="Open the article in the browser" xml:space="preserve">
+        <source>Open the article in the browser</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Open web pages in background in browser" xml:space="preserve">
         <source>Open web pages in background in browser</source>
         <target>Abrir las páginas web en segundo plano en el navegador</target>
@@ -1883,8 +2300,8 @@ Support an Indie Developer.</source>
         <target>Ocultar contadores no leídos solo de subscripciones y carpetas.</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Package not Found" xml:space="preserve">
-        <source>Package not Found</source><target>Paquete no encontrado</target>
+      <trans-unit id="Paragraph" xml:space="preserve">
+        <source>Paragraph</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Paragraph Font" xml:space="preserve">
@@ -1897,8 +2314,28 @@ Support an Indie Developer.</source>
         <target>Pagar sobre la marcha</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Please check the URL you have entered in the field." xml:space="preserve">
+        <source>Please check the URL you have entered in the field.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Please confirm you have taken an export of your feeds and folders as a backup." xml:space="preserve">
-        <source>Please confirm you have taken an export of your feeds and folders as a backup.</source><target>Por favor, confirme que ha exportado sus feeds y carpetas como copia de seguridad</target>
+        <source>Please confirm you have taken an export of your feeds and folders as a backup.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please include either a `url` parameter with the feed's URL or a `feedID` parameter with the feed's ID." xml:space="preserve">
+        <source>Please include either a `url` parameter with the feed's URL or a `feedID` parameter with the feed's ID.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please include the articleID to open in the url as a parameter" xml:space="preserve">
+        <source>Please include the articleID to open in the url as a parameter</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please include the feedID to open in the url as a parameter" xml:space="preserve">
+        <source>Please include the feedID to open in the url as a parameter</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please include the smart folder to open in the url as a parameter" xml:space="preserve">
+        <source>Please include the smart folder to open in the url as a parameter</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Portrait Lock" xml:space="preserve">
@@ -1931,12 +2368,12 @@ Support an Indie Developer.</source>
         <target>Resultado anterior</target>
         <note>ArticleVC</note>
       </trans-unit>
-      <trans-unit id="Private. Focused. Feed Reader." xml:space="preserve">
-        <source>Private. Focused. Feed Reader.</source><target>Lector de feeds enfocado en su privacidad</target>
+      <trans-unit id="Privacy" xml:space="preserve">
+        <source>Privacy</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Processing File" xml:space="preserve">
-        <source>Processing File</source><target>Procesando archivo</target>
+        <source>Processing File</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Processing..." xml:space="preserve">
@@ -1944,8 +2381,12 @@ Support an Indie Developer.</source>
         <target>Procesando...</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Purchasing" xml:space="preserve">
-        <source>Purchasing</source><target>Comprando</target>
+      <trans-unit id="Product not found" xml:space="preserve">
+        <source>Product not found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Progammmer Error: empty panes" xml:space="preserve">
+        <source>Progammmer Error: empty panes</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Push Notifications" xml:space="preserve">
@@ -1989,7 +2430,7 @@ Support an Indie Developer.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Redownload" xml:space="preserve">
-        <source>Redownload</source><target>Volver a descargar</target>
+        <source>Redownload</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Refresh" xml:space="preserve">
@@ -2007,10 +2448,6 @@ Support an Indie Developer.</source>
         <target>Actualización de subscripciones:</target>
         <note>General Prefs</note>
       </trans-unit>
-      <trans-unit id="Refund Request Processed" xml:space="preserve">
-        <source>Refund Request Processed</source><target>Petición de reembolso procesada</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Regular" xml:space="preserve">
         <source>Regular</source>
         <target>Normal</target>
@@ -2026,6 +2463,14 @@ Support an Indie Developer.</source>
         <target>Compilación de lanzamiento</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Remove Full Text" xml:space="preserve">
+        <source>Remove Full Text</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove from Bookmarks" xml:space="preserve">
+        <source>Remove from Bookmarks</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Rename" xml:space="preserve">
         <source>Rename</source>
         <target>Renombrar</target>
@@ -2037,7 +2482,7 @@ Support an Indie Developer.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Reset Account" xml:space="preserve">
-        <source>Reset Account</source><target>Reestablecer cuenta</target>
+        <source>Reset Account</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reset parts of your account or all data in your account. Please remember to export your feeds as an OPML file before resetting folders or feeds. Once the data is reset, it cannot be recovered." xml:space="preserve">
@@ -2051,13 +2496,29 @@ Support an Indie Developer.</source>
         <note>Images Prefs</note>
       </trans-unit>
       <trans-unit id="Restore" xml:space="preserve">
-        <source>Restore</source><target>Restaurar</target>
+        <source>Restore</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Safari Reader Mode" xml:space="preserve">
         <source>Safari Reader Mode</source>
         <target>Modo Lector de Safari</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Save Feed Settings" xml:space="preserve">
+        <source>Save Feed Settings</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save OPML Export" xml:space="preserve">
+        <source>Save OPML Export</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Scroll to end" xml:space="preserve">
+        <source>Scroll to end</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Scroll to top" xml:space="preserve">
+        <source>Scroll to top</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Search" xml:space="preserve">
         <source>Search</source>
@@ -2084,6 +2545,10 @@ Support an Indie Developer.</source>
         <target>Seleccionar carpeta</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Select a feed" xml:space="preserve">
+        <source>Select a feed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Select a file" xml:space="preserve">
         <source>Select a file</source>
         <target>Selecciona un archivo</target>
@@ -2094,8 +2559,8 @@ Support an Indie Developer.</source>
         <target>Seleccionar plan de subscripción de la app</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Select a subscription to get started" xml:space="preserve">
-        <source>Select a subscription to get started</source><target>Seleccionar subscripción para empezar</target>
+      <trans-unit id="Select an article" xml:space="preserve">
+        <source>Select an article</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Selective" xml:space="preserve">
@@ -2123,6 +2588,10 @@ Support an Indie Developer.</source>
         <target>Ajustes</target>
         <note>Settings</note>
       </trans-unit>
+      <trans-unit id="Setup Later" xml:space="preserve">
+        <source>Setup Later</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
         <source>Share</source>
         <target>Compartir</target>
@@ -2148,19 +2617,23 @@ Support an Indie Developer.</source>
         <target>Compartir dirección de sitio web</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Share…" xml:space="preserve">
+        <source>Share…</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Short Keyword" xml:space="preserve">
         <source>Short Keyword</source>
         <target>Palabra clave demasiado corta</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Show Feed" xml:space="preserve">
+        <source>Show Feed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Show Logs" xml:space="preserve">
         <source>Show Logs</source>
         <target>Mostrar registros</target>
         <note/>
-      </trans-unit>
-      <trans-unit id="Show Onboarding" xml:space="preserve">
-        <source>Show Onboarding</source><target>Mostrar introducción</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)" xml:space="preserve">
         <source>Show all actions in toolbar at the bottom of the interface instead of the navigation bar at the top. (Requires an App restart)</source>
@@ -2182,27 +2655,40 @@ Support an Indie Developer.</source>
         <target>Mostrar contadores de no leídos</target>
         <note>MISC</note>
       </trans-unit>
+      <trans-unit id="Simple, Private, Feed Reader.&#10;Elytra is a simple, yet powerful RSS Feed reader for iOS and macOS." xml:space="preserve">
+        <source>Simple, Private, Feed Reader.
+Elytra is a simple, yet powerful RSS Feed reader for iOS and macOS.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Small" xml:space="preserve">
         <source>Small</source>
         <target>Pequeña</target>
         <note/>
       </trans-unit>
       <trans-unit id="Smart Folder Menu" xml:space="preserve">
-        <source>Smart Folder Menu</source><target>Menú Carpetas Inteligentes</target>
+        <source>Smart Folder Menu</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Smart Folder Name" xml:space="preserve">
-        <source>Smart Folder Name</source><target>Nombre de Carpeta Inteligente</target>
+        <source>Smart Folder Name</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Smart Folders" xml:space="preserve">
-        <source>Smart Folders</source><target>Carpetas Inteligentes</target>
+        <source>Smart Folders</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Sorting Options" xml:space="preserve">
         <source>Sorting Options</source>
         <target>Opciones de clasificación</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Start" xml:space="preserve">
+        <source>Start</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="State does not match" xml:space="preserve">
+        <source>State does not match</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Stay up-to date with interesting topics, focusing on specific keywords from folders." xml:space="preserve">
         <source>Stay up-to date with interesting topics, focusing on specific keywords from folders.</source>
@@ -2218,8 +2704,16 @@ Support an Indie Developer.</source>
         <target>Suscripción</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our Terms of Service and Privacy Policy." xml:space="preserve">
-        <source>Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our Terms of Service and Privacy Policy.</source>
+      <trans-unit id="Subscription Required" xml:space="preserve">
+        <source>Subscription Required</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Subscriptions" xml:space="preserve">
+        <source>Subscriptions</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our [Terms of Service](https://elytra.app/terms/) and [Privacy Policy](https://elytra.app/privacy/)." xml:space="preserve">
+        <source>Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our [Terms of Service](https://elytra.app/terms/) and [Privacy Policy](https://elytra.app/privacy/).</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Summary" xml:space="preserve">
@@ -2246,6 +2740,10 @@ Support an Indie Developer.</source>
         <source>Syncing...</source>
         <target>Sincronizando ...</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Terms" xml:space="preserve">
+        <source>Terms</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Test Builds" xml:space="preserve">
         <source>Test Builds</source>
@@ -2287,10 +2785,6 @@ Support an Indie Developer.</source>
         <target>La palabra clave debe ser al menos de 3 letras</target>
         <note/>
       </trans-unit>
-      <trans-unit id="The monthly in-app purchase package was not found. Please contact the developer at support@elytra.app and include a screenshot." xml:space="preserve">
-        <source>The monthly in-app purchase package was not found. Please contact the developer at support@elytra.app and include a screenshot.</source><target>La compra mensual dentro de la app no fue encontrada. Por favor contacte con el desarollador en support@elytra.app e incluya una captura de pantalla</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout." xml:space="preserve">
         <source>The space between two lines of text. A lower values renders a compact layout, a higher value renders comfortable layout.</source>
         <target>Espacio entre dos líneas de texto. Los valores más bajos crean un diseño compacto, un valor más alto crea un diseño más espacioso.</target>
@@ -2306,6 +2800,10 @@ Support an Indie Developer.</source>
         <target>Esta subscripción permite notificaciones en tiempo real.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Title" xml:space="preserve">
+        <source>Title</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Title Font" xml:space="preserve">
         <source>Title Font</source>
         <target>Fuente del titulo</target>
@@ -2316,8 +2814,12 @@ Support an Indie Developer.</source>
         <target>Hoy</target>
         <note/>
       </trans-unit>
-      <trans-unit id="Toggle Sidebar" xml:space="preserve">
-        <source>Toggle Sidebar</source><target>Alternar barra lateral</target>
+      <trans-unit id="Try Free" xml:space="preserve">
+        <source>Try Free</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Try for Free" xml:space="preserve">
+        <source>Try for Free</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="URL Actions" xml:space="preserve">
@@ -2351,7 +2853,7 @@ Support an Indie Developer.</source>
         <note/>
       </trans-unit>
       <trans-unit id="Unreads" xml:space="preserve">
-        <source>Unreads</source><target>No leídos</target>
+        <source>Unreads</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unsubscribe Failed" xml:space="preserve">
@@ -2379,6 +2881,10 @@ Support an Indie Developer.</source>
         <target>Usar proxy de imágenes</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Use System Setting" xml:space="preserve">
+        <source>Use System Setting</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Use System Sizing" xml:space="preserve">
         <source>Use System Sizing</source>
         <target>Utilizar tamaño del sistema</target>
@@ -2405,7 +2911,7 @@ Support an Indie Developer.</source>
         <note/>
       </trans-unit>
       <trans-unit id="When enabled, notifications for new articles from this smart folder will be displayed" xml:space="preserve">
-        <source>When enabled, notifications for new articles from this smart folder will be displayed</source><target>Cuando se habilita, se mostrarán notificiaciones de nuevos artículos para esta carpeta inteligente</target>
+        <source>When enabled, notifications for new articles from this smart folder will be displayed</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="When enabled, the app will open the Unread List upon launch." xml:space="preserve">
@@ -2432,6 +2938,10 @@ Support an Indie Developer.</source>
         <source>Wi-Fi Only</source>
         <target>Solo wifi</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="Wireless Only" xml:space="preserve">
+        <source>Wireless Only</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Yearly" xml:space="preserve">
         <source>Yearly</source>
@@ -2461,6 +2971,14 @@ Precios descontados.</target>
         <target>Ocultar la pestaña Marcadores desde la barra lateral.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="You have a lifetime subscription for Elytra" xml:space="preserve">
+        <source>You have a lifetime subscription for Elytra</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You have reached the maximum limit for feeds on a free plan. Please subscribe to one of the subscriptions to continue importing feeds." xml:space="preserve">
+        <source>You have reached the maximum limit for feeds on a free plan. Please subscribe to one of the subscriptions to continue importing feeds.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="You may choose to restrict the app's UI only to the portrait orientation." xml:space="preserve">
         <source>You may choose to restrict the app's UI only to the portrait orientation.</source>
         <target>Forzar la orientación de la interfaz de la aplicación siempre en modo vertical.</target>
@@ -2470,6 +2988,10 @@ Precios descontados.</target>
         <source>You may enable reader mode for all feeds with a single tap.</source>
         <target>Habilitar el modo de lector para todas las subscripciones con un solo toque.</target>
         <note/>
+      </trans-unit>
+      <trans-unit id="You need to subscription to add more than 10 feeds on your account" xml:space="preserve">
+        <source>You need to subscription to add more than 10 feeds on your account</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss." xml:space="preserve">
         <source>You should select Release if you want only the most stable releases. Test Builds may be buggy, crash  and even cause data loss.</source>
@@ -2511,6 +3033,10 @@ Precios descontados.</target>
         <target>Suscripción está activa hasta %@.</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Your subscription will renew on %@" xml:space="preserve">
+        <source>Your subscription will renew on %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Your subscription will renew on %@." xml:space="preserve">
         <source>Your subscription will renew on %@.</source>
         <target>La suscripción se renovará en %@.</target>
@@ -2532,9 +3058,9 @@ Precios descontados.</target>
       </trans-unit>
     </body>
   </file>
-  <file original="Yeti/Vendors/Localisations/en.lproj/Localizable.stringsdict" source-language="en" target-language="es" datatype="plaintext">
+  <file original="Yeti/SupportingFiles/Localizations/en.lproj/Localizable.stringsdict" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="/summaryLinesFormat:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve">
@@ -2554,7 +3080,7 @@ Precios descontados.</target>
       </trans-unit>
       <trans-unit id="/summaryLinesFormat:dict/lineCount:dict/zero:dict/:string" xml:space="preserve">
         <source/>
-        <target>cero</target>
+        <target/>
         <note/>
       </trans-unit>
       <trans-unit id="/unreadsCountFormat:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve">
@@ -2574,14 +3100,298 @@ Precios descontados.</target>
       </trans-unit>
       <trans-unit id="/unreadsCountFormat:dict/unreadsCount:dict/zero:dict/:string" xml:space="preserve">
         <source/>
-        <target>cero</target>
+        <target/>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Utilities/Settings.bundle/en.lproj/Root.strings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="Enabled" xml:space="preserve">
+        <source>Enabled</source>
+        <target>Activado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Group" xml:space="preserve">
+        <source>Group</source>
+        <target>Grupo</target>
+        <note>A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences.</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target>Nombre</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="none given" xml:space="preserve">
+        <source>none given</source>
+        <target>none given</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/DZAppDelegate/Example/Base.lproj/LaunchScreen.xib" datatype="plaintext" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text" xml:space="preserve">
+        <source>  Copyright (c) 2015 Dezine Zync Studios LLP. All rights reserved.</source>
+        <note>Class = "UILabel"; text = "  Copyright (c) 2015 Dezine Zync Studios LLP. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+      <trans-unit id="kId-c2-rCX.text" xml:space="preserve">
+        <source>DZAppDelegate</source>
+        <note>Class = "UILabel"; text = "DZAppDelegate"; ObjectID = "kId-c2-rCX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/DZAppDelegate/Example/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>DZAppDelegate</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/DZKit/ColumnApp/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>ColumnApp</source>
+        <target>ColumnApp</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/DZKit/DZKit/en.lproj/Localizable.strings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="An error occured" xml:space="preserve">
+        <source>An error occurred</source>
+        <note>An error occured</note>
+      </trans-unit>
+      <trans-unit id="An unknown error occured. Please try again." xml:space="preserve">
+        <source>An unknown error occurred. Please try again.</source>
+        <note>An unknown error occured. Please try again.</note>
+      </trans-unit>
+      <trans-unit id="Ok" xml:space="preserve">
+        <source>Ok</source>
+        <target>Ok</target>
+        <note>Ok</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/Vendors/DZKit/DZKitTestApp/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>DZKitTestApp</source>
+        <target>DZKitTestApp</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/widgets/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>UnreadsWidget</source>
+        <target>UnreadsWidget</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>widgetsiOS</source>
+        <target>UnreadsWidgetExtension</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/widgets/InfoPlist.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>widgets</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>widgetsmacOS</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2016-2024 Nikhil Nigade - All Rights Reserved</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/widgets/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="%@ - %@" xml:space="preserve">
+        <source>%1$@ - %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All - Latest First" xml:space="preserve">
+        <source>All - Latest First</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All - Oldest First" xml:space="preserve">
+        <source>All - Oldest First</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bloccs" xml:space="preserve">
+        <source>Bloccs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bookmarks" xml:space="preserve">
+        <source>Bookmarks</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Custom Font" xml:space="preserve">
+        <source>Custom Font</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Folders" xml:space="preserve">
+        <source>Folders</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Latest unread article from a feed" xml:space="preserve">
+        <source>Latest unread article from a feed</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Latest unread articles as bloccs" xml:space="preserve">
+        <source>Latest unread articles as bloccs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Latest unread articles from a folder" xml:space="preserve">
+        <source>Latest unread articles from a folder</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Latest unread articles from your account" xml:space="preserve">
+        <source>Latest unread articles from your account</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Unreads" xml:space="preserve">
+        <source>No Unreads</source>
+        <note>No Unreads</note>
+      </trans-unit>
+      <trans-unit id="No unreads in this folder" xml:space="preserve">
+        <source>No unreads in this folder</source>
+        <note>No unreads in this folder</note>
+      </trans-unit>
+      <trans-unit id="Recent Unreads" xml:space="preserve">
+        <source>Recent Unreads</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Solo" xml:space="preserve">
+        <source>Solo</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Today" xml:space="preserve">
+        <source>Today</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unread" xml:space="preserve">
+        <source>Unread</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unread - Latest First" xml:space="preserve">
+        <source>Unread - Latest First</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unread - Oldest First" xml:space="preserve">
+        <source>Unread - Oldest First</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unread Articles" xml:space="preserve">
+        <source>Unread Articles</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Yeti/widgets/SupportingFiles/en.lproj/Localizable.strings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+    </header>
+    <body>
+      <trans-unit id="%@ - %@" xml:space="preserve">
+        <source>%1$@ - %2$@</source>
+        <target>%@ - %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All - Latest First" xml:space="preserve">
+        <source>All - Latest First</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All - Oldest First" xml:space="preserve">
+        <source>All - Oldest First</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bookmarks" xml:space="preserve">
+        <source>Bookmarks</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Custom Font" xml:space="preserve">
+        <source>Custom Font</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Blog" xml:space="preserve">
+        <source>No Blog</source>
+        <target>No hay blog</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Unreads" xml:space="preserve">
+        <source>No Unreads</source>
+        <target>No hay sin leer</target>
+        <note>Widgets</note>
+      </trans-unit>
+      <trans-unit id="No unreads in this folder" xml:space="preserve">
+        <source>No unreads in this folder</source>
+        <target>No hay sin leer en la carpeta</target>
+        <note>No unreads in this folder</note>
+      </trans-unit>
+      <trans-unit id="Recent Unreads" xml:space="preserve">
+        <source>Recent Unreads</source>
+        <target>Recientes sin leer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Today" xml:space="preserve">
+        <source>Today</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unread" xml:space="preserve">
+        <source>Unread</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unread - Latest First" xml:space="preserve">
+        <source>Unread - Latest First</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unread - Oldest First" xml:space="preserve">
+        <source>Unread - Oldest First</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>
   <file original="YetiShare/Base.lproj/MainInterface.storyboard" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="ObA-dk-sSI.title" xml:space="preserve">
@@ -2598,7 +3408,7 @@ Precios descontados.</target>
   </file>
   <file original="YetiShare/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">

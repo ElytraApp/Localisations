@@ -1,0 +1,9 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Elytra";
+/* Bundle name */
+"CFBundleName" = "Elytra";
+/* Privacy - AppleEvents Sending Usage Description */
+"NSAppleEventsUsageDescription" = "Elytra communicates with other apps on your Mac when you choose to share an article.";
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "© 2016-2024 Nikhil Nigade - All Rights Reserved";
+"OPML" = "OPML";

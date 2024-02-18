@@ -1,0 +1,18 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Elytra";
+
+/* Bundle name */
+"CFBundleName" = "Elytra";
+
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2017-2022 Dezine Zync Studios. All rights reserved.";
+
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "Save images you select from articles to your photos.";
+
+/* (No Comment) */
+"OPML" = "OPML";
+
+/* (No Comment) */
+"Outline Processor file containing RSS feeds" = "Outline Processor file containing RSS feeds";
+
